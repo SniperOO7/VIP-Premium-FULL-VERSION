@@ -2,9 +2,9 @@
 * **I think many people searching for good plugin on combat surf, but no one released it, so I decided to do that because I don´t need this any more**
 * **I am not best programmer, but I think it´s good for people that want good combat surf plugin, but they don´t have enough experience to do that**
 * **It´s my own combat surf plugin with many features like:**
-* - Fast buy menu (with bonus for steam group) 
-* - Main menu (/menu)
-- - Emotes on round end (you can select emote on round end and you can turn it off to don’t show that menu) [you have to install Fornite Emotes]
+    - Fast buy menu (with bonus for steam group) 
+    - Main menu (/menu)
+    - Emotes on round end (you can select emote on round end and you can turn it off to don’t show that menu) [you have to install Fornite Emotes]
 - - VIP benefits with settings ON/OFF (trails, grenades, bonus deagle, bonus HP, VIP model, bonus HP, nametag in tab)
 - - Steam group benefits, killstreak bonuses (with bonus money and sounds) 
 - - Bonuses (when you kill you have a little chance to get on whole map bonus like +HP or +ARMOR every round) 
