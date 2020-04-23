@@ -23,3 +23,6 @@
     - - Jail indicator (how many players are in Jail)
     - - Secrets on map (on specific map you can create secret place and when player enter this place, he will unlock secret) 
 - - And many more good features that you will appreciated
+* **Steam**: https://steamcommunity.com/id/Sniper-oo7/
+* **Price**: 30 €
+* **Payment method**: PayPal
