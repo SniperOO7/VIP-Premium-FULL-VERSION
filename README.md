@@ -19,7 +19,7 @@
 - - Hit effect (every time when you hit enemy, you can hear sound and see pop effect on screen)
 - - Buy zone protection on 2 sec with cooldown
 - - When you spectate player, you can see which buttons he using 
-- -	+ Two more free bonus plugins for franug devzones:
+- -	Two more free bonus plugins for franug devzones:
     - - Jail indicator (how many players are in Jail)
     - - Secrets on map (on specific map you can create secret place and when player enter this place, he will unlock secret) 
 - - And many more good features that you will appreciated
