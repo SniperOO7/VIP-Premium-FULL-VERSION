@@ -15,7 +15,7 @@
     - Steam group benefits like nametag in TAB and bonus money, when you hit player you will get 50 dollars (it´s have cooldown)
     - Bomb plant protection (if you want that)
     - Some guns using protection like autonoob or negev (if you want that)
-    - Hits enemy indicator (you will see, where your enemy got hits on his body when you died)
+    - Hits enemy indicator (you will see, where your enemy got hits on his body when you will died)
     - Hit effect (every time when you hit enemy, you can hear sound and see pop effect on screen)
     - Buy zone protection on 2 sec with cooldown
     - When you spectate player, you can see which buttons he using 
