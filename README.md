@@ -26,3 +26,4 @@
 * **Steam**: https://steamcommunity.com/id/Sniper-oo7/ (write reason why you adding me)
 * **Price**: 30 €
 * **Payment method**: PayPal
+* **Video with example**: https://www.youtube.com/watch?v=BNR-rG2AYr8&feature=youtu.be
