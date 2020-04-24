@@ -11,7 +11,7 @@
     - Special rounds (every sixth round is special round like HeadShot round or only AWP round), when is AWP round or P90 round your guns will be removed and you will get money for your guns that you have in this round
     - HUD special indicators (like who is best player with best killstreak or how many HP you have)
     - Own money system (like how much money you will get for kill or for round)
-    - 15 Sec spawn protection on start round (with hint text indicator)
+    - 15 sec spawn protection on start round (with hint text indicator)
     - Steam group benefits like nametag in TAB and bonus money, when you hit player you will get 50 dollars (it´s have cooldown)
     - Bomb plant protection (if you want that)
     - Some guns using protection like autonoob or negev (if you want that)
