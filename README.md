@@ -1,31 +1,39 @@
-### CS-Surf (Combat Surf plugin for sale)
-* **I think many people searching for good plugin on combat surf, but no one released it, so I decided to do that because I don´t need this any more**
-* **I am not best programmer, but I think it´s good for people that want good combat surf plugin, but they don´t have enough experience to do that**
-* **It´s my own combat surf plugin with many features like:**
-    - Fast buy menu (with bonus for steam group) 
-    - Main menu (/menu)
-    - Emotes on round end (you can select emote on round end and you can turn it off to don’t show that menu) [you have to install Fornite Emotes]
-    - VIP benefits with settings ON/OFF (trails, grenades, bonus deagle, bonus HP, VIP model, bonus HP, nametag in tab)
-    - Steam group benefits, killstreak bonuses (with bonus money and sounds) 
-    - Bonuses (when you kill someone, you have a little chance to get on whole map bonus like +HP or +ARMOR every round) 
-    - Special rounds (every sixth round is special round like HeadShot round or only AWP round), when is AWP round or P90 round your guns will be removed and you will get money for your guns that you have in this round
-    - HUD special indicators (like who is best player with best killstreak or how many HP you have)
-    - Own money system (like how much money you will get for kill or for round)
-    - 15 sec spawn protection on start round (with hint text indicator)
-    - Steam group benefits like nametag in TAB and bonus money, when you hit player you will get 50 dollars (it´s have cooldown)
-    - Bomb plant protection (if you want that)
-    - Some guns using protection like autonoob or negev (if you want that)
-    - Hits enemy indicator (you will see, where your enemy got hits on his body when you will died)
-    - Hit effect (every time when you hit enemy, you can hear sound and see pop effect on screen)
-    - Buy zone protection on 2 sec with cooldown
-    - When you spectate player, you can see which buttons he using 
-    - Kill HUD indicators (like headshot or AWP kill)
-    - Killstreak money bonuses and sound effects
-    - Two more free bonus plugins for franug devzones:
-        - Jail indicator (how many players are in Jail)
-        - Secrets on map (on specific map you can create secret place and when player enter this place, he will unlock secret) 
-    - And many more good features that you will appreciated
-* **Steam**: https://steamcommunity.com/id/Sniper-oo7/ (write reason why you adding me)
-* **Price**: 30 €
-* **Payment method**: PayPal
-* **Video with example**: https://www.youtube.com/watch?v=BNR-rG2AYr8&feature=youtu.be
+###VIP-Premium [Full Version]
+
+* **Updates:**
+8.05.2020 - Improved gun menu
+8.05.2020 - Add double jump for VIP, HS bonus HP and maxium HP (for full version)
+8.05.2020 - Add heavy assault suit (for full version)
+
+* **VIP Flag: a**
+
+* **What this plugin have ?**
+- Gun menu for VIP (its working from third round)
+- Bonus HP for kill (you can edit how many HP VIP, that will get)
+- Bonus HP spawn (you can edit how many HP VIP, that will get)
+- Bonus money for kill (you can edit how many HP VIP, that will get)
+- Bonus money for hit (you can edit how many HP VIP, that will get)
+- Change speed for VIP (you can edit speed for VIP, that will get)
+- Change gravity for VIP (you can edit gravity for VIP, that will get)
+- Message when VIP join/disconnect
+
+* **What full version of this plugin have ?**
+- No-fall damage for VIP
+- VIP settings (VIP can change their benefits, like if they want to have more HP..)
+- VIP models (for CT and TT, VIP can turn it on/off)
+- Hit market for VIP with sound and screen effect
+- VIP info menu (what benefits have VIP and price of VIP)
+- Trail for VIP (VIP can change color or turn it off/on)
+- Double Jump for VIP (you can change amout of boost)
+- Maximum HP for VIP (you can change amout of HP, what VIP can have)
+- HeadShot bonus HP for VIP (you can change amout of HP, that VIP will get)
+- Heavy Assault Suit (you can change price, that VIP will pay for it)
+
+* **Photo from full version:**
+https://ctrlv.cz/Px8K[/url]
+https://ctrlv.cz/Y29r[/url]
+https://ctrlv.cz/nU2o[/url]
+https://ctrlv.cz/VJQ8[/url]
+https://ctrlv.cz/wxng[/url]
+
+* **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
