@@ -30,10 +30,10 @@
     - Heavy Assault Suit (you can change price, that VIP will pay for it)
 
 * **Photo from full version:**
-https://ctrlv.cz/Px8K[/url]
-https://ctrlv.cz/Y29r[/url]
-https://ctrlv.cz/nU2o[/url]
-https://ctrlv.cz/VJQ8[/url]
-https://ctrlv.cz/wxng[/url]
+    - https://ctrlv.cz/Px8K[/url]
+    - https://ctrlv.cz/Y29r[/url]
+    - https://ctrlv.cz/nU2o[/url]
+    - https://ctrlv.cz/VJQ8[/url]
+    - https://ctrlv.cz/wxng[/url]
 
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
