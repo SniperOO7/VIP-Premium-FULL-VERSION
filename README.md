@@ -1,9 +1,9 @@
 ### VIP-Premium [Full Version]
 
 * **Updates:**
-8.05.2020 - Improved gun menu
-8.05.2020 - Add double jump for VIP, HS bonus HP and maxium HP (for full version)
-8.05.2020 - Add heavy assault suit (for full version)
+    - 8.05.2020 - Improved gun menu
+    - 8.05.2020 - Add double jump for VIP, HS bonus HP and maxium HP (for full version)
+    - 8.05.2020 - Add heavy assault suit (for full version)
 
 * **VIP Flag: a**
 
