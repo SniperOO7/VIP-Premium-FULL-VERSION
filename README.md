@@ -1,4 +1,4 @@
-### VIP-Premium [Full Version]
+### VIP-Premium CS:GO [Full Version]
 
 * **Updates:**
     - 8.05.2020 - Improved gun menu
