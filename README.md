@@ -16,6 +16,8 @@
     - Change speed for VIP (you can edit speed for VIP, that will get)
     - Change gravity for VIP (you can edit gravity for VIP, that will get)
     - Message when VIP join/disconnect
+    - Timer for gun menu (you can edit time)
+    - Adverts for players
     - Free version of knife-premium-demo (all information on github)
 
 * **What full version of this plugin have ?**
