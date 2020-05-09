@@ -16,6 +16,7 @@
     - Change speed for VIP (you can edit speed for VIP, that will get)
     - Change gravity for VIP (you can edit gravity for VIP, that will get)
     - Message when VIP join/disconnect
+    - Free version of knife-premium-demo (all information on github)
 
 * **What full version of this plugin have ?**
     - No-fall damage for VIP
@@ -30,6 +31,8 @@
     - Heavy Assault Suit (you can change price, that VIP will pay for it)
     - Healthshot (you can change price, that VIP will pay for it)
     - VIP test (player can try VIP for one map for free)
+    - Reserved slots for VIP (you can change slots or disabled it)
+    - Full version of knife-premium (all information on github)
 
 * **Photo from full version:**
     - https://ctrlv.cz/Px8K[/url]
