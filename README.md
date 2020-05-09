@@ -28,6 +28,7 @@
     - Maximum HP for VIP (you can change amout of HP, what VIP can have)
     - HeadShot bonus HP for VIP (you can change amout of HP, that VIP will get)
     - Heavy Assault Suit (you can change price, that VIP will pay for it)
+    - Healthshot (you can change price, that VIP will pay for it)
 
 * **Photo from full version:**
     - https://ctrlv.cz/Px8K[/url]
