@@ -3,7 +3,7 @@
 #define DEBUG
 
 #define PLUGIN_AUTHOR "SNIPER007"
-#define PLUGIN_VERSION "1.0"
+#define PLUGIN_VERSION "1.2"
 
 #include <sourcemod>
 #include <sdktools>
@@ -21,6 +21,9 @@ char g_szSelectedWeapon[MAXPLAYERS + 1];
 
 bool Useda[MAXPLAYERS] = false; 
 
+int timeout;
+int advert;
+
 //SETTINGS
 ConVar g_cVIPhealthbonus;
 ConVar g_cVIPhealthspawn;
@@ -28,6 +31,8 @@ ConVar g_cVIPhit;
 ConVar g_cVIPkill;
 ConVar g_cVIPspeed;
 ConVar g_cVIPgravity;
+ConVar g_cVIPguntimer;
+ConVar g_cVIPadverts;
 
 int round;
 bool g_bGunActivated = false;
@@ -59,10 +64,14 @@ public void OnPluginStart()
 	g_cVIPkill = CreateConVar("sm_vip_kill_money", "300", "Money for VIP for killing players");
 	g_cVIPspeed = CreateConVar("sm_vip_speed", "1.2", "Speed for vip, 0 = disabled");
 	g_cVIPgravity = CreateConVar("sm_vip_gravity", "0.7", "Gravity for vip, 0 = disabled");
+	g_cVIPguntimer = CreateConVar("sm_vip_gun_timer", "20", "How long gun menu will work from round start, 0 = disabled");
+	g_cVIPadverts = CreateConVar("sm_vip_adverts", "120", "Every X sec will write message in chat, 0 = disabled");
 	
 	AutoExecConfig(true, "VIP-Premium");
 	
 	CreateTimer(1.0, VIPtag, _, TIMER_REPEAT);
+	
+	advert = g_cVIPadverts.IntValue;
 }
 
 public void OnClientPutInServer(int client)
@@ -120,6 +129,7 @@ public void Event_RoundStart(Event event, const char[] name, bool bDontBroadcast
 {   
     if (GameRules_GetProp("m_bWarmupPeriod") != 1)
     {
+    	timeout = g_cVIPguntimer.IntValue;
     	round++;
     	if(round == 4)
     	{
@@ -255,32 +265,39 @@ public int mAutHandler(Menu menu, MenuAction action, int client, int index)
         {
            	if(g_bGunActivated == true)
            	{
-	            if(Useda[client] == false)
+	            if(timeout >= 1)
 	            {
-		            if(IsPravyClient(client))
+		            if(Useda[client] == false)
 		            {
-		            	if(IsPlayerAlive(client))
-		            	{
-							char szItem[32];
-			                menu.GetItem(index, szItem, sizeof(szItem));
-							Format(g_szSelectedWeapon[client], sizeof(g_szSelectedWeapon), "%s", szItem);
-							RemovePrimaryWeapons(client);
-							RemoveSecondaryWeapons(client);
-							GivePlayerItem(client, g_szSelectedWeapon[client]);
-							GivePlayerItem(client, "weapon_hegrenade");
-							GivePlayerItem(client, "weapon_deagle");
-							Useda[client] = true;
-			        	}
-			        	else
+			            if(IsPravyClient(client))
 			            {
-			           		PrintToChat(client, " \x04[VIP]\x01 You have to live!");
+			            	if(IsPlayerAlive(client))
+			            	{
+								char szItem[32];
+				                menu.GetItem(index, szItem, sizeof(szItem));
+								Format(g_szSelectedWeapon[client], sizeof(g_szSelectedWeapon), "%s", szItem);
+								RemovePrimaryWeapons(client);
+								RemoveSecondaryWeapons(client);
+								GivePlayerItem(client, g_szSelectedWeapon[client]);
+								GivePlayerItem(client, "weapon_hegrenade");
+								GivePlayerItem(client, "weapon_deagle");
+								Useda[client] = true;
+				        	}
+				        	else
+				            {
+				           		PrintToChat(client, " \x04[VIP]\x01 You have to live!");
+				           	}
 			           	}
+		            }
+		            else
+		            {
+		           		PrintToChat(client, " \x04[VIP]\x01 You already chosen gun!");
 		           	}
-	            }
-	            else
-	            {
-	           		PrintToChat(client, " \x04[VIP]\x01 You already chosen gun!");
-	           	}
+		    	}
+				else
+				{
+					PrintToChat(client, " \x04[VIP]\x01 Time for choosing gun is gone!");
+				}
 	    	}
     		else
             {
@@ -321,6 +338,27 @@ void RemoveSecondaryWeapons(int client)
 
 public Action VIPtag(Handle timer)
 {
+	if(g_cVIPguntimer.IntValue >= 1)
+	{
+		if(timeout >= 1)
+		{
+			timeout--;
+		}
+	}
+	
+	if(g_cVIPadverts.IntValue >= 1)
+	{
+		if(advert >= 1)
+		{
+			advert--;
+		}
+		else if(advert == 0)
+		{
+			advert = g_cVIPadverts.IntValue;	
+			PrintToChatAll(" \x04[VIP]\x01 Buy VIP and get very cool benefits ! Write in chat \x04/vip");
+		}
+	}
+	
 	for (int i = 1; i <= MaxClients; i++)
 	{
 		if(IsPravyClient(i))
