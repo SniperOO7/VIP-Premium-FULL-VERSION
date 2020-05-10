@@ -33,6 +33,8 @@
     - Heavy Assault Suit (you can change price, that VIP will pay for it)
     - Healthshot (you can change price, that VIP will pay for it)
     - VIP test (player can try VIP for one map for free)
+    - Gun menu from specific round (you can change from which round will gun menu work)
+    - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
     - Reserved slots for VIP (you can change slots or disabled it)
     - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
     - Translation file
