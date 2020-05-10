@@ -8,6 +8,8 @@
     - 9.05.2020 - Added special knifes from danger zone [knife-premium]
     - 9.05.2020 - Added adverts and timer for gun menu
     - 10.5.2020 - Added gun buyzone, translation file, rounds restriction (for full version)
+    - 10.5.2020 - Added bhop for VIP (for full version)
+    - 10.5.2020 - Added custom tags for VIP (for full version)
 
 * **VIP Flag: a**
 
@@ -41,7 +43,9 @@
     - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
     - Reserved slots for VIP (you can change slots or disabled it)
     - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
-    - Translation file
+    - Bhop for VIP (you can change if you want that or not)
+    - Custom tags for VIP (VIP can choose what tag he wants)
+    - Translation file (you can translate menus, text and more..)
     - Full version of knife-premium (all information on github)
 
 * **Photo from full version:**
