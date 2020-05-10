@@ -34,6 +34,7 @@
     - Healthshot (you can change price, that VIP will pay for it)
     - VIP test (player can try VIP for one map for free)
     - Reserved slots for VIP (you can change slots or disabled it)
+    - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
     - Translation file
     - Full version of knife-premium (all information on github)
 
