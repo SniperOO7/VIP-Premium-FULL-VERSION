@@ -1,9 +1,13 @@
 ### VIP-Premium CS:GO [Full Version]
 
 * **Updates:**
-    - 8.05.2020 - Improved gun menu
-    - 8.05.2020 - Add double jump for VIP, HS bonus HP and maxium HP (for full version)
-    - 8.05.2020 - Add heavy assault suit (for full version)
+    - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
+    - 8.05.2020 - Added heavy assault suit (for full version)
+    - 8.05.2020 - Added test vip for players (for full version)
+    - 9.05.2020 - Added 2 reserved slots for VIP (for full version)
+    - 9.05.2020 - Added special knifes from danger zone [knife-premium]
+    - 9.05.2020 - Added adverts and timer for gun menu
+    - 10.5.2020 - Added gun buyzone, translation file, rounds restriction (for full version)
 
 * **VIP Flag: a**
 
