@@ -41,6 +41,7 @@
     - Healthshot (you can change price, that VIP will pay for it)
     - VIP test (player can try VIP for one map for free)
     - Shield (you can change price, that VIP will pay for it)
+    - Extra money for VIP on round start (you can change the amout of money or disabled it)
     - Message when you add someon VIP or remove VIP (you can change message)
     - Gun menu from specific round (you can change from which round will gun menu work)
     - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
