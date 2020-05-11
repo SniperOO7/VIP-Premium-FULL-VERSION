@@ -10,6 +10,7 @@
     - 10.5.2020 - Added gun buyzone, translation file, rounds restriction (for full version)
     - 10.5.2020 - Added bhop for VIP (for full version)
     - 10.5.2020 - Added custom tags for VIP (for full version)
+    - 11.05.2020 - Added shield for VIP, added message when you give someone VIP or remove VIP with sound + some fix (for full version)
 
 * **VIP Flag: a**
 
@@ -39,6 +40,8 @@
     - Heavy Assault Suit (you can change price, that VIP will pay for it)
     - Healthshot (you can change price, that VIP will pay for it)
     - VIP test (player can try VIP for one map for free)
+    - Shield (you can change price, that VIP will pay for it)
+    - Message when you add someon VIP or remove VIP (you can change message)
     - Gun menu from specific round (you can change from which round will gun menu work)
     - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
     - Reserved slots for VIP (you can change slots or disabled it)
