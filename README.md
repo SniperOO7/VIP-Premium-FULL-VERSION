@@ -11,6 +11,7 @@
     - 10.5.2020 - Added bhop for VIP (for full version)
     - 10.5.2020 - Added custom tags for VIP (for full version)
     - 11.05.2020 - Added shield for VIP, added message when you give someone VIP or remove VIP with sound + some fix (for full version)
+    - 12.05.2020 - Fixed bugs, added bodycolor for VIP (for full version)
 
 * **VIP Flag: a**
 
@@ -49,6 +50,7 @@
     - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
     - Bhop for VIP (you can change if you want that or not)
     - Custom tags for VIP (VIP can choose what tag he wants)
+    - Bodycolor for VIP (VIP can choose bodycolors)
     - Translation file (you can translate menus, text and more..)
     - Full version of knife-premium (all information on github)
 
