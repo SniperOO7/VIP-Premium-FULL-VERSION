@@ -13,6 +13,7 @@
     - 11.05.2020 - Added shield for VIP, added message when you give someone VIP or remove VIP with sound + some fix (for full version)
     - 12.05.2020 - Fixed bugs, added bodycolor for VIP (for full version)
     - 13.05.2020 - Fixed bugs, added respawn for VIP (for full version)
+    - 14.05.2020 - Halftime reset gun-menu and respawn (for full version)
     - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
 
 * **VIP Flag: a**
@@ -54,6 +55,7 @@
     - Message when you add someon VIP or remove VIP (you can change message)
     - Gun menu from specific round (you can change from which round will gun menu work)
     - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
+    - Halftime reset gun-menu and respawn (when is halftime and teams are changed gun-menu and respawn will be reset and will work after X rounds)
     - Reserved slots for VIP (you can change slots or disabled it)
     - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
     - Bhop for VIP (you can change if you want that or not)
