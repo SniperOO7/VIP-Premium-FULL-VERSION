@@ -15,6 +15,7 @@
     - 13.05.2020 - Fixed bugs, added respawn for VIP (for full version)
     - 14.05.2020 - Halftime reset gun-menu and respawn (for full version)
     - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
+    - 15.05.2020 - Added VIP leves (VIP and VIP+) (for full version)
 
 * **VIP Flag: a**
 
@@ -62,6 +63,7 @@
     - Custom tags for VIP (VIP can choose what tag he wants)
     - Bodycolor for VIP (VIP can choose bodycolors)
     - Translation file (you can translate menus, text and more..)
+    - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
 
 * **Photo from full version:**
