@@ -45,6 +45,9 @@
     - VIP test (player can try VIP for one map for free)
     - Shield (you can change price, that VIP will pay for it)
     - Respawn for VIP (VIP can respawn)
+        - Respawn protection (when player respawn he will get spawn protection)
+        - Bodycolors when player respawn
+        - Restriction for how many times can player use respawn (on map and in one round)
     - Bonus credits for buying VIP (zephyrus & myjailshop support)
     - AWP fast reload for VIP (you can disable it)
     - Extra money for VIP on round start (you can change the amout of money or disabled it)
