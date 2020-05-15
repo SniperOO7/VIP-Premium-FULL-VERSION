@@ -13,6 +13,7 @@
     - 11.05.2020 - Added shield for VIP, added message when you give someone VIP or remove VIP with sound + some fix (for full version)
     - 12.05.2020 - Fixed bugs, added bodycolor for VIP (for full version)
     - 13.05.2020 - Fixed bugs, added respawn for VIP (for full version)
+    - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
 
 * **VIP Flag: a**
 
@@ -44,6 +45,8 @@
     - VIP test (player can try VIP for one map for free)
     - Shield (you can change price, that VIP will pay for it)
     - Respawn for VIP (VIP can respawn)
+    - Bonus credits for buying VIP (zephyrus & myjailshop support)
+    - AWP fast reload for VIP (you can disable it)
     - Extra money for VIP on round start (you can change the amout of money or disabled it)
     - Message when you add someon VIP or remove VIP (you can change message)
     - Gun menu from specific round (you can change from which round will gun menu work)
