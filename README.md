@@ -38,7 +38,7 @@
     - VIP models (for CT and TT, VIP can turn it on/off)
     - Hit market for VIP with sound and screen effect
     - VIP info menu (what benefits have VIP and price of VIP)
-    - Trail for VIP (VIP can change color or turn it off/on)
+    - Trail for VIP (VIP can change color or turn it off/on or choose color of trail)
     - Double Jump for VIP (you can change amout of boost)
     - Maximum HP for VIP (you can change amout of HP, what VIP can have)
     - HeadShot bonus HP for VIP (you can change amout of HP, that VIP will get)
