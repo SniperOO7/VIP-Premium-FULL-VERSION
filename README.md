@@ -58,6 +58,7 @@
     - Hit market for VIP with sound and screen effect
     - VIP info menu (what benefits have VIP and price of VIP)
     - Trail for VIP (VIP can change color or turn it off/on or choose color of trail)
+        - Colors: Rainbow, Green, Magneta, Red, Gold, Blue
     - Double Jump for VIP (you can change amout of boost)
     - Maximum HP for VIP (you can change amout of HP, what VIP can have)
     - HeadShot bonus HP for VIP (you can change amout of HP, that VIP will get)
