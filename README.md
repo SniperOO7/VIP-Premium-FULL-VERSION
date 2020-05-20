@@ -1,7 +1,6 @@
 ### VIP-Premium CS:GO [Full Version]
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
-* **Updates:**
     - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
     - 8.05.2020 - Added heavy assault suit (for full version)
     - 8.05.2020 - Added test vip for players (for full version)
@@ -20,6 +19,7 @@
 
 * **VIP Flag: a**
 
+![ddisp](https://i.imgur.com/ReFzmiB.png)
 * **What this plugin have ?**
     - Gun menu for VIP (its working from third round)
     - Bonus HP for kill (you can edit how many HP VIP, that will get)
