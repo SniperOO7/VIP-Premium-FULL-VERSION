@@ -37,7 +37,6 @@
     - Free version of knife-premium-demo (all information on github)
 
 ![ddisp](https://i.imgur.com/aWynWNX.png)
-* **What full version of this plugin have ?**
     - No-fall damage for VIP
     - VIP settings (VIP can change their benefits, like if they want to have more HP..)
     - VIP models (for CT and TT, VIP can turn it on/off)
