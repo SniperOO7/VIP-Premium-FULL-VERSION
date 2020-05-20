@@ -1,6 +1,4 @@
-### VIP-Premium CS:GO [Full Version]
-
-![ddisp](https://i.imgur.com/6WDTVGM.png)
+                                            ![ddisp](https://i.imgur.com/6WDTVGM.png)
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
