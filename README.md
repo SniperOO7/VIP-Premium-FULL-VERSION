@@ -20,7 +20,8 @@
     - 19.05.2020 - New version of demo version with new plugin and benefits
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
-* **VIP Flag: a | VIP+ Flag: o** 
+* **VIP Flag: a** 
+* **VIP+ Flag: o** 
 
 ![ddisp](https://i.imgur.com/qWrJh4A.png)
 
