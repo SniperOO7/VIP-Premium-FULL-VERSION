@@ -1,5 +1,7 @@
 ### VIP-Premium CS:GO [Full Version]
 
+![ddisp](https://i.imgur.com/6WDTVGM.png)
+
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
     - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
