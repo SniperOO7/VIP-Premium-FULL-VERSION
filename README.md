@@ -17,11 +17,12 @@
     - 14.05.2020 - Halftime reset gun-menu and respawn (for full version)
     - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
     - 15.05.2020 - Added VIP leves (VIP and VIP+) (for full version)
+    - 19.05.2020 - New version of demo version with new plugin and benefits
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a**
 
-![ddisp](https://i.imgur.com/ReFzmiB.png)
+![ddisp](https://i.imgur.com/qWrJh4A.png)
 * **What this plugin have ?**
     - Gun menu for VIP (its working from third round)
     - Bonus HP for kill (you can edit how many HP VIP, that will get)
@@ -35,6 +36,7 @@
     - Adverts for players
     - Free version of knife-premium-demo (all information on github)
 
+![ddisp](https://i.imgur.com/aWynWNX.png)
 * **What full version of this plugin have ?**
     - No-fall damage for VIP
     - VIP settings (VIP can change their benefits, like if they want to have more HP..)
