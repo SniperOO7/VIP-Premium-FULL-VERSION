@@ -35,6 +35,8 @@
     - Message when VIP join/disconnect
     - Timer for gun menu (you can edit time)
     - Adverts for players
+    - Bhop for VIP
+    - Bonus money on round start for VIP
     - Free version of knife-premium-demo (all information on github)
 
 ![ddisp](https://i.imgur.com/aWynWNX.png)
