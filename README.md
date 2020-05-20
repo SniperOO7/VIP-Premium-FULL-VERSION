@@ -23,6 +23,7 @@
 * **VIP Flag: a**
 
 ![ddisp](https://i.imgur.com/qWrJh4A.png)
+
 * **What this plugin have ?**
     - Gun menu for VIP (its working from third round)
     - Bonus HP for kill (you can edit how many HP VIP, that will get)
@@ -37,6 +38,7 @@
     - Free version of knife-premium-demo (all information on github)
 
 ![ddisp](https://i.imgur.com/aWynWNX.png)
+* **What full version have ?**
     - No-fall damage for VIP
     - VIP settings (VIP can change their benefits, like if they want to have more HP..)
     - VIP models (for CT and TT, VIP can turn it on/off)
