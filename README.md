@@ -18,6 +18,7 @@
     - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
     - 15.05.2020 - Added VIP leves (VIP and VIP+) (for full version)
 
+![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a**
 
 ![ddisp](https://i.imgur.com/ReFzmiB.png)
