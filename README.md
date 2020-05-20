@@ -41,6 +41,16 @@
 
 ![ddisp](https://i.imgur.com/aWynWNX.png)
 * **What full version have ?**
+    - Gun menu for VIP (its working from third round)
+    - Bonus HP for kill (you can edit how many HP VIP, that will get)
+    - Bonus HP spawn (you can edit how many HP VIP, that will get)
+    - Bonus money for kill (you can edit how many HP VIP, that will get)
+    - Bonus money for hit (you can edit how many HP VIP, that will get)
+    - Change speed for VIP (you can edit speed for VIP, that will get)
+    - Change gravity for VIP (you can edit gravity for VIP, that will get)
+    - Message when VIP join/disconnect
+    - Timer for gun menu (you can edit time)
+    - Adverts for players
     - No-fall damage for VIP
     - VIP settings (VIP can change their benefits, like if they want to have more HP..)
     - VIP models (for CT and TT, VIP can turn it on/off)
