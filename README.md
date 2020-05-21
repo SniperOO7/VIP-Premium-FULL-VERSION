@@ -97,6 +97,56 @@
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
 
+![ddisp](https://i.imgur.com/hrQhzMm.png)
+* **Cvars from plugin (full version):**
+	- "sm_vip_health_bonus", "5", "Bonus for kill HP, 0 = disabled");
+	- "sm_vip_healthhs_bonus", "10", "Bonus for kill HP, 0 = disabled"
+	- "sm_vip_health_spawn", "140", "On round start VIP HP, 0 = disabled");
+	- "sm_vip_money_hit", "50", "Bonus money for VIP for hit player, 0 = disabled");
+	- "sm_vip_hit_popeffect", "1", "Hit effect, 0 = disabled");
+	- "sm_vip_kill_money", "300", "Money for VIP for killing players");
+	- "sm_vip_falldamage", "0", "No Fall damage for vip, 0 = disabled");
+	- "sm_vip_speed", "1.2", "Speed for vip, 0 = disabled");
+	- "sm_vip_model", "1", "VIP model, 0 = disabled");
+	- "sm_vip_gravity", "0.7", "Gravity for vip, 0 = disabled");
+	- "sm_vip_doublejump", "1", "Double jump for vip, 0 = disabled");
+	- "sm_vip_doublejump_boost", "400", "How much will boost double jump");
+	- "sm_vip_maximum_hp", "150", "Maximum HP, what VIP can have, 0 = infinity");
+	- "sm_vip_heavy_suit", "6000", "Price for heavy assault suit, 0 = disabled");
+	- "sm_vip_healthshot", "2000", "Price for healthshot, 0 = disabled");
+	- "sm_vip_shield", "4000", "Price for shield, 0 = disabled");
+	- "sm_vip_gun_menu", "1", "Gun menu for VIP, 0 = disabled");
+	- "sm_vip_gun_timer", "20", "How long gun menu will work from round start, 1 = only buyzone, 0 = disabled");
+	- "sm_vip_adverts", "120", "Every X sec will write message in chat, 0 = disabled");
+	- "sm_vip_trial", "1", "Trial test of VIP for players until change map, 0 = disabled");
+	- "sm_vip_knife_wallhack", "3", "How long will VIP have wallhack after VIP kill someone with knife, 0 = disabled");
+	- "sm_vip_gun_rounds", "4", "How long gun menu will not work (number have to of one number higher like 3 + 1 = 3 rounds)");
+	- "sm_vip_bhop", "1", "Bhop for VIP 1 = enable, 0 = disabled");
+	- "sm_vip_used_gunmenu", "1", "How many times, can VIP use gun menu, 0 = infinity");
+	- "sm_vip_extra_money", "100", "How much money will VIP get on every round start, 0 = disabled");
+	- "sm_vip_tags", "2", "2 = VIP can choose tag, 1 = VIP have only [VIP] tag, 0 = disabled");
+	- "sm_vip_bodycolor", "1", "Body color for VIP, 0 = disabled");
+	- "sm_vip_trail", "1", "Trails for VIP, 0 = disabled");
+	- "sm_vip_spawn", "1", "Number of respawns VIP in round, 0 = disabled");
+	- "sm_vip_halftime", "1", "If you want reset gun menu and respawn on halftime, 0 = disabled");
+	- "sm_vip_icon", "1", "If you want VIP icon above head, 0 = disabled");
+	- "sm_vip_regeneration", "5", "Regeneration for VIP players every X sec after VIP get damage, 0 = disabled");
+	- "sm_vip_regenhp", "5", "How many HP will VIP get after X sec, player will be regenerated only to Maximum HP");
+	- "sm_vip_spawnwork", "4", "From what round should respawn work, 0 = disabled");
+	- "sm_vip_spawnuses", "2", "How many times VIP can use respawn on map, 0 = disabled");
+	- "sm_vip_spawnbonususes", "5", "How many times VIP+ can use respawn on map, 0 = disabled");
+	- "sm_vip_spawnsound", "1", "Respawn sound, 0 = disabled");
+	- "sm_vip_spawnbodycolor", "1", "Bodycolor respawn, 0 = disabled");
+	- "sm_vip_spawnprotection", "3", "Respawn protection in sec, 0 = disabled");
+	- "sm_vip_creditsshop", "2", "Credits bonus for zephyrus = 2 or myjailshop = 1, 0 = disabled");
+	- "sm_vip_creditsbonus", "1500", "How many credits player get, when player get VIP");
+	- "sm_vip_bonusvip", "0", "Bonus VIP level, if you want two levels of VIP, 0 = disabled");
+	- "sm_vip_awpfastreload", "0", "AWP fast reload for VIP, 0 = disabled");
+	- "sm_vip_pistolup", "0", "When VIP kill someone, VIP will get new better pistol with 1 bullet, 0 = disabled");
+	- "sm_reserved_slots", "18", "Amout of slots, that your server have - 2 slots, 0 = disabled");
+	- "sm_parachute_fallspeed", "100.0", "Max fall speed, maximum is 1000.0");
+	- "sm_parachute", "1", "Parachute for VIP, 0 = disabled");
+
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 
