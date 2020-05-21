@@ -93,6 +93,7 @@
     - Pistol upgrade after VIP kill someone (good for AWP servers)
     - VIP icon above head (VIP can turn it on/off)
     - Parachutes for VIP (VIP can choose parachute)
+        - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
 
