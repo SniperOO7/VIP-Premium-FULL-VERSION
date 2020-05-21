@@ -1,5 +1,5 @@
 ![ddisp](https://i.imgur.com/6WDTVGM.png)
-* **VIDEO: https://youtu.be/JCEhqVDt18E** 
+* **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
@@ -93,7 +93,7 @@
     - Full version of knife-premium (all information on github)
 
 ![ddisp](https://i.imgur.com/EDziqBc.png)
-* **VIDEO: https://youtu.be/JCEhqVDt18E** 
+* **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 * **Photo from full version:**
     - https://ctrlv.cz/Px8K
     - https://ctrlv.cz/Y29r
