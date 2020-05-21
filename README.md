@@ -91,6 +91,9 @@
     - Translation file (you can translate menus, text and more..)
     - Regeneration after VIP get hit from enemy
     - Pistol upgrade after VIP kill someone (good for AWP servers)
+        - 1.Kill = USP_S
+        - 2.Kill = P250
+        - 3.Kill = Deagle
     - VIP icon above head (VIP can turn it on/off)
     - Parachutes for VIP (VIP can choose parachute)
         - Parachutes: Army, Spongebob, BF2142
