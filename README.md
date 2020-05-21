@@ -23,6 +23,7 @@
     - 19.05.2020 - New version of demo version with new plugin and benefits
     - 20.05.2020 - Regeneration & Pistol upgrades with one bullet (full version)
     - 21.05.2020 - Added VIP icon above head
+    - 21.05.2020 - Added Parachutes with settings
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
@@ -91,6 +92,7 @@
     - Regeneration after VIP get hit from enemy
     - Pistol upgrade after VIP kill someone (good for AWP servers)
     - VIP icon above head (VIP can turn it on/off)
+    - Parachutes for VIP (VIP can choose parachute)
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
 
