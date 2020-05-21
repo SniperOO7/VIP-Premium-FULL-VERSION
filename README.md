@@ -43,7 +43,7 @@
     - Bonus money on round start for VIP
     - Free version of knife-premium-demo (all information on github)
 
-![ddisp](https://i.imgur.com/aWynWNX.png)
+![ddisp](https://i.imgur.com/eOzVDNv.png)
 * **What full version have ?**
     - Gun menu for VIP (its working from third round)
     - Bonus HP for kill (you can edit how many HP VIP, that will get)
