@@ -93,14 +93,8 @@
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
 
-![ddisp](https://i.imgur.com/EDziqBc.png)
+![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
-* **Photo from full version:**
-    - https://ctrlv.cz/Px8K
-    - https://ctrlv.cz/Y29r
-    - https://ctrlv.cz/nU2o
-    - https://ctrlv.cz/VJQ8
-    - https://ctrlv.cz/wxng
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
