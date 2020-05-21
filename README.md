@@ -93,8 +93,8 @@
     - Full version of knife-premium (all information on github)
 
 ![ddisp](https://i.imgur.com/EDziqBc.png)
-* **Photo from full version:**
 * **VIDEO: https://youtu.be/JCEhqVDt18E** 
+* **Photo from full version:**
     - https://ctrlv.cz/Px8K
     - https://ctrlv.cz/Y29r
     - https://ctrlv.cz/nU2o
