@@ -1,4 +1,4 @@
-![ddisp](https://i.imgur.com/qHZpAwi.png)
+![ddisp](https://i.imgur.com/QyGaJdH.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
