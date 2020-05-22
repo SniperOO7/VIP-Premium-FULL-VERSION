@@ -26,6 +26,7 @@
     - 20.05.2020 - Regeneration & Pistol upgrades with one bullet (full version)
     - 21.05.2020 - Added VIP icon above head
     - 21.05.2020 - Added Parachutes with settings
+    - 22.05.2020 - Added better VIP menu
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
