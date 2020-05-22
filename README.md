@@ -96,6 +96,7 @@
         - 1.Kill = USP_S
         - 2.Kill = P250
         - 3.Kill = Deagle
+        - After you died, pistols are reseted and you starting with GLOCK on level 0
     - VIP icon above head (VIP can turn it on/off)
     - Parachutes for VIP (VIP can choose parachute)
         - Parachutes: Army, Spongebob, BF2142
