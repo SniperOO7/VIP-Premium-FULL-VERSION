@@ -108,4 +108,6 @@
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
+* **----> FOR SALE ! <----**
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
+* **-------------------------**
