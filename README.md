@@ -105,6 +105,7 @@
         - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
     - Full version of knife-premium (all information on github)
+    - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
