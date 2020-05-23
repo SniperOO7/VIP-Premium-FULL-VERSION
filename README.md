@@ -27,6 +27,7 @@
     - 21.05.2020 - Added VIP icon above head
     - 21.05.2020 - Added Parachutes with settings
     - 22.05.2020 - Added better VIP menu
+    - 23.05.2020 - Added reset gun menu command
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
@@ -99,6 +100,7 @@
         - 3.Kill = Deagle
         - After you died, pistols are reseted and you starting with GLOCK on level 0
     - VIP icon above head (VIP can turn it on/off)
+    - Reset gun menu (command that help you to stop getting guns every round)
     - Parachutes for VIP (VIP can choose parachute)
         - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
