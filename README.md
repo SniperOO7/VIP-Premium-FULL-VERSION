@@ -103,6 +103,7 @@
     - VIP icon above head (VIP can turn it on/off)
     - Reset gun menu (command that help players to stop getting guns every round)
     - VIP can roll the dice every round and have a change to get some bonus
+        - Bonuses: Nothing, HP, Money, Speed
     - Parachutes for VIP (VIP can choose parachute)
         - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
