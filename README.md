@@ -28,7 +28,7 @@
     - 21.05.2020 - Added Parachutes with settings
     - 22.05.2020 - Added better VIP menu
     - 23.05.2020 - Added reset gun menu command
-    - 24.05.2020 - Added roll the dice command 
+    - 24.05.2020 - Added roll the dice for VIP  
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
