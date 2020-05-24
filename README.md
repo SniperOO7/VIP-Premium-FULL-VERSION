@@ -29,6 +29,7 @@
     - 22.05.2020 - Added better VIP menu
     - 23.05.2020 - Added reset gun menu command
     - 24.05.2020 - Added roll the dice for VIP  
+    - 24.05.2020 - Added auto open choose ON/OFF & pack of grenade cvar
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
@@ -107,6 +108,7 @@
     - Parachutes for VIP (VIP can choose parachute)
         - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
+    - VIP can choose, if VIP want auto open every round gun menu of not
     - Full version of knife-premium (all information on github)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
