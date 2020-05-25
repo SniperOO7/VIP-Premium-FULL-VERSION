@@ -31,7 +31,8 @@
     - 24.05.2020 - Added roll the dice for VIP  
     - 24.05.2020 - Added auto open choose ON/OFF & pack of grenade cvar
     - 24.05.2020 - Added sound effects for menus and commands
-    - 25.05.2020 - New sounds for VIP (VIP can play sound)
+    - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
+    - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
@@ -113,6 +114,7 @@
     - VIP can choose, if VIP want auto open every round gun menu of not
     - Sound effect for menus and commands
     - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
+    - Shop for VIP (special shop for VIP with items)
     - Full version of knife-premium (all information on github)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
