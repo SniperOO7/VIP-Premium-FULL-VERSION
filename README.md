@@ -34,6 +34,7 @@
     - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
 ![ddisp](https://i.imgur.com/grYeQOb.png)
+![ddisp](https://i.imgur.com/P2i8UbI.png)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
