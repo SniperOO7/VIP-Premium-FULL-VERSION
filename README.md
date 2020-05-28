@@ -118,7 +118,7 @@
     - Sound effect for menus and commands
     - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
     - Shop for VIP (special shop for VIP with items)
-    - VIP System for Admins (only for Admins)
+    - VIP System (only for Admins)
         - Admin can add VIP to player
         - Admin can remove VIP players
         - Admin can see all online VIP players
