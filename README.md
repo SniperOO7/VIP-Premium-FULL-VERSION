@@ -33,6 +33,7 @@
     - 24.05.2020 - Added sound effects for menus and commands
     - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
+    - 28.05.2020 - Added VIP-System for Admins
 ![ddisp](https://i.imgur.com/grYeQOb.png)
 ![ddisp](https://i.imgur.com/P2i8UbI.png)
 
@@ -117,6 +118,7 @@
     - Sound effect for menus and commands
     - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
     - Shop for VIP (special shop for VIP with items)
+    - VIP System for Admins (Admin can give or remove online player VIP or show list of online VIP)
     - Full version of knife-premium (all information on github)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
