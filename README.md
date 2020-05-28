@@ -118,7 +118,10 @@
     - Sound effect for menus and commands
     - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
     - Shop for VIP (special shop for VIP with items)
-    - VIP System for Admins (Admin can give or remove online player VIP or show list of online VIP)
+    - VIP System for Admins (only for Admins)
+        - Admin can add VIP to player
+        - Admin can remove VIP players
+        - Admin can see all online VIP players
     - Full version of knife-premium (all information on github)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
