@@ -34,6 +34,7 @@
     - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
     - 28.05.2020 - Added VIP-System for Admins
+    - 3.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
 ![ddisp](https://i.imgur.com/grYeQOb.png)
 ![ddisp](https://i.imgur.com/9uR1Xtd.png)
 
