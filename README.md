@@ -35,7 +35,7 @@
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
     - 28.05.2020 - Added VIP-System for Admins
 ![ddisp](https://i.imgur.com/grYeQOb.png)
-![ddisp](https://i.imgur.com/P2i8UbI.png)
+![ddisp](https://i.imgur.com/9uR1Xtd.png)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
