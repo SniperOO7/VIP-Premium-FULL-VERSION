@@ -122,7 +122,7 @@
     - VIP System
         - Admin can add VIP to player
         - Admin can remove VIP players
-        - VIP player can see when VIP ends /viptime
+        - VIP player can see when his VIP ends /viptime
     - Full version of knife-premium (all information on github)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
