@@ -122,6 +122,7 @@
     - Sound effect for menus and commands
     - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
     - Shop for VIP (special shop for VIP with items)
+    - VIP players can carry/buy more grenades
     - VIP System
         - Admin can add VIP to player
         - Admin can remove VIP players
