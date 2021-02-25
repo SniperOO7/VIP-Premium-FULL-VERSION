@@ -133,7 +133,7 @@
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 * **Command (from full version):**
     - /gun, /gunmenu, /guns, /resetgun, /heavysuit, /shield, /healthshot, /vipshop
-    - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn
+    - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn, /viptime
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
