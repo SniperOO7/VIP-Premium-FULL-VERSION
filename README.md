@@ -36,6 +36,7 @@
     - 28.05.2020 - Added VIP-System for Admins
     - 3.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
     - 14.02.2021 - Added new gun menu, added option to carry/buy more nades for VIP players, optimize the code, fixed bugs
+    - 25.02.2021 - Added option (convar) for custom VIP models
 ![ddisp](https://i.imgur.com/grYeQOb.png)
 ![ddisp](https://i.imgur.com/9uR1Xtd.png)
 ![ddisp](https://i.imgur.com/8pAKMa5.png)
@@ -76,7 +77,7 @@
     - Adverts for players
     - No-fall damage for VIP
     - VIP settings (VIP can change their benefits, like if they want to have more HP..)
-    - VIP models (for CT and TT, VIP can turn it on/off)
+    - Custom VIP models (for CT and TT, VIP can turn it on/off)
     - Hit market for VIP with sound and screen effect
     - VIP info menu (what benefits have VIP and price of VIP)
     - Trail for VIP (VIP can change color or turn it off/on or choose color of trail)
