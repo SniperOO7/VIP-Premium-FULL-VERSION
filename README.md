@@ -1,11 +1,11 @@
-![ddisp](https://i.imgur.com/QyGaJdH.png)
+![ddisp](https://i.imgur.com/ZNDands.png)
 * **----> FOR SALE ! <----**
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
 * **-------------------------**
 * **Old version: https://forums.alliedmods.net/showthread.php?t=324458**
 
-![ddisp](https://imgur.com/ZNDands)
+![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
     - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
     - 8.05.2020 - Added heavy assault suit (for full version)
