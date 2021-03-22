@@ -5,7 +5,7 @@
 * **-------------------------**
 * **Old version: https://forums.alliedmods.net/showthread.php?t=324458**
 
-![ddisp](https://i.imgur.com/Lk1Rf6X.png)
+![ddisp](https://imgur.com/ZNDands)
 
     - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
     - 8.05.2020 - Added heavy assault suit (for full version)
