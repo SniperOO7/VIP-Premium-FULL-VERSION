@@ -1,9 +1,5 @@
 ![ddisp](https://i.imgur.com/9D8wppf.png)
-* **----> FOR SALE ! <----**
-* **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
-* **-------------------------**
-* **Old version: https://forums.alliedmods.net/showthread.php?t=324458**
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
