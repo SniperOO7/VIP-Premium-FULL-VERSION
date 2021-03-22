@@ -1,5 +1,5 @@
 ![ddisp](https://i.imgur.com/9D8wppf.png)
-* **→ If you are interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
+* **→ If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
