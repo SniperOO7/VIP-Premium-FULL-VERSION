@@ -37,6 +37,7 @@
     - 25.02.2021 - Added option (convar) for custom VIP models
     - 25.02.2021 - Re-edited whole plugin, better optimalization, added new mysql features, fixed bugs
     - 4.04.2021 - Added infinity ammo for specific type of gun
+    - 26.05.2021 - Better menus, endrealtime in database, some little changes in code
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
