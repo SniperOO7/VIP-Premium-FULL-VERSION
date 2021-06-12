@@ -38,6 +38,7 @@
     - 25.02.2021 - Re-edited whole plugin, better optimalization, added new mysql features, fixed bugs
     - 4.04.2021 - Added infinity ammo for specific type of gun
     - 26.05.2021 - Better menus, endrealtime in database, some little changes in code
+    - 12.06.2021 - Added chat tag for VIP (player can choose tag and cfg you can set tag colors), added some changes in glow and icons
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
