@@ -2,7 +2,7 @@
 * **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 * **Information about VIP Premium:**
     - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
-    - After you will buy plugin, you will get support from me for installing it and setup it
+    - After you will buy plugin, you will get instant support from me for installing it and setup it
     - If you will have problem (bugs, errors..), you can always write me and I will try to help you (fix it)
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
