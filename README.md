@@ -104,6 +104,7 @@
     - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
     - Bhop for VIP (you can change if you want that or not)
     - Custom tags for VIP (VIP can choose what tag he wants)
+    - Chat tag for VIP (in cfg you can change color of tag)
     - Bodycolor for VIP (VIP can choose bodycolors)
     - Translation file (you can translate menus, text and more..)
     - Regeneration after VIP get hit from enemy
