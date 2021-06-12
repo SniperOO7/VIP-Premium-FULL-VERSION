@@ -1,4 +1,4 @@
-![ddisp](https://imgur.com/iWfA6uk)
+![ddisp](https://imgur.com/iWfA6uk.png)
 * **→ If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
