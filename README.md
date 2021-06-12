@@ -32,7 +32,7 @@
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
     - 28.05.2020 - Added VIP-System for Admins
     - 3.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
-    >>>>> Reedited version: <<<<<
+    >>>>> Reedited version 2.0: <<<<<
     - 14.02.2021 - Added new gun menu, added option to carry/buy more nades for VIP players, optimize the code, fixed bugs
     - 25.02.2021 - Added option (convar) for custom VIP models
     - 25.02.2021 - Re-edited whole plugin, better optimalization, added new mysql features, fixed bugs
