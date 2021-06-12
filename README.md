@@ -4,6 +4,7 @@
     - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
     - After you will buy plugin, you will get instant support from me for installing it and setup it
     - If you will have problem (bugs, errors..), you can always write me and I will try to help you (fix it)
+    - VIP Premium is best on market, because of his: variation of configuration, price, amout of benefits in one plugin, easy setup
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
