@@ -138,6 +138,8 @@
 * **Command (from full version):**
     - /gun, /gunmenu, /guns, /resetgun, /heavysuit, /shield, /healthshot, /vipshop
     - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn, /viptime
+* **Command for Admins (from full version):**
+    - /setvip, /removevip, /vipsystem
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
