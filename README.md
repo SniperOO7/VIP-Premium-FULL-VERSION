@@ -45,7 +45,7 @@
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
 * **VIP+ Flag: o** 
-* **or you can MySQL database**
+* **or you can use MySQL database**
 
 ![ddisp](https://i.imgur.com/qWrJh4A.png)
 
