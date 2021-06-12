@@ -1,5 +1,5 @@
 ![ddisp](https://i.imgur.com/zh5rr3b.png)
-* **→ If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
+* **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 * **Information about VIP Premium:**
     - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
     - After you will buy plugin, you will get support from me for installing it and setup it
