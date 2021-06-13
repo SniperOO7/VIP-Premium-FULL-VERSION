@@ -101,7 +101,7 @@
         - Bodycolors when player respawn
         - Restriction for how many times can player use respawn (on map and in one round)
     - Bonus credits for buying VIP (zephyrus & myjailshop support)
-    - AWP fast reload for VIP (you can disable it)
+    - Fast reload for VIP (you can choose which gun have it or all guns or disable it)
     - Extra money for VIP on round start (you can change the amout of money or disabled it)
     - Message when you add someon VIP or remove VIP (you can change message)
     - Gun menu from specific round (you can change from which round will gun menu work)
