@@ -42,7 +42,7 @@
     - 14.02.2021 - Added new gun menu, added option to carry/buy more nades for VIP players, optimize the code, fixed bugs
     - 25.02.2021 - Added option (convar) for custom VIP models
     - 25.02.2021 - Re-edited whole plugin, better optimalization, added new mysql features, fixed bugs
-    - 4.04.2021 - Added infinity ammo for specific type of gun
+    - 04.04.2021 - Added infinity ammo for specific type of gun
     - 26.05.2021 - Better menus, endrealtime in database, some little changes in code
     - 12.06.2021 - Added chat tag for VIP (player can choose tag and cfg you can set tag colors), added some changes in glow and icons
     - 13.06.2021 - Added beam for VIP, better fast reload (you can change which gun have fast reload or all guns can have it), added new commands
