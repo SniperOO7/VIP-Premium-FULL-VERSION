@@ -44,6 +44,7 @@
     - 4.04.2021 - Added infinity ammo for specific type of gun
     - 26.05.2021 - Better menus, endrealtime in database, some little changes in code
     - 12.06.2021 - Added chat tag for VIP (player can choose tag and cfg you can set tag colors), added some changes in glow and icons
+    - 13.06.2021 - Added beam for VIP, better fast reload (you can change which gun have fast reload or all guns can have it), added new commands
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -137,6 +138,7 @@
         - VIP player can see when his VIP ends /viptime
     - Full version of knife-premium (all information on github)
     - Infinity ammo for specific type of gun
+    - Beam for VIP (in cfg file you can change width, range of beam, life of beam)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
