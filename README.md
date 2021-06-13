@@ -81,7 +81,7 @@
     - Bonus money for hit (you can edit how many HP VIP, that will get)
     - Change speed for VIP (you can edit speed for VIP, that will get)
     - Change gravity for VIP (you can edit gravity for VIP, that will get)
-    - Message when VIP join/disconnect
+    - Message when VIP join/disconnect + HUD message (you can turn it off, or choose between these 2 messages)
     - Timer for gun menu (you can edit time)
     - Adverts for players
     - No-fall damage for VIP
