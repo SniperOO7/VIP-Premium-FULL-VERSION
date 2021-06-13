@@ -144,7 +144,7 @@
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 * **Command (from full version):**
-    - /gun, /gunmenu, /guns, /resetgun, /heavysuit, /shield, /healthshot, /vipshop
+    - /gun, /gunmenu, /guns, /resetgun, /heavysuit, /shield, /healthshot, /vipshop, /trail, /beam, /glow
     - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn, /viptime
 * **Command for Admins (from full version):**
     - /setvip, /removevip, /vipsystem
