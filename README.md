@@ -6,6 +6,7 @@
     - If you will have problem (bugs, errors..), you can always write me and I will try to help you (fix it)
     - VIP Premium is best on market, because of his: variation of configuration, price, amount of benefits in one plugin, easy setup
     - Everything is configurable (plugin, translation.. etc.), you can turn off every benefit for VIP in plugin (in cfg file)
+    - Free updates with new features and fixes (after you will buy it, you will get access to all new updates in future)
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
