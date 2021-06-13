@@ -10,12 +10,12 @@
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
     >>>>> Version 1.0 <<<<<
-    - 8.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
-    - 8.05.2020 - Added heavy assault suit (for full version)
-    - 8.05.2020 - Added test vip for players (for full version)
-    - 9.05.2020 - Added 2 reserved slots for VIP (for full version)
-    - 9.05.2020 - Added special knifes from danger zone [knife-premium]
-    - 9.05.2020 - Added adverts and timer for gun menu
+    - 08.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
+    - 08.05.2020 - Added heavy assault suit (for full version)
+    - 08.05.2020 - Added test vip for players (for full version)
+    - 09.05.2020 - Added 2 reserved slots for VIP (for full version)
+    - 09.05.2020 - Added special knifes from danger zone [knife-premium]
+    - 09.05.2020 - Added adverts and timer for gun menu
     - 10.5.2020 - Added gun buyzone, translation file, rounds restriction (for full version)
     - 10.5.2020 - Added bhop for VIP (for full version)
     - 10.5.2020 - Added custom tags for VIP (for full version)
@@ -37,7 +37,7 @@
     - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
     - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
     - 28.05.2020 - Added VIP-System for Admins
-    - 3.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
+    - 03.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
     >>>>> Reedited version 2.0: <<<<<
     - 14.02.2021 - Added new gun menu, added option to carry/buy more nades for VIP players, optimize the code, fixed bugs
     - 25.02.2021 - Added option (convar) for custom VIP models
