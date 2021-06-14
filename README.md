@@ -153,7 +153,7 @@
     - /setvip, /removevip, /vipsystem
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
-* **VIDEO FROM FULL VERSION: https://youtu.be/JCEhqVDt18E** 
+* **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 * **----> FOR SALE ! <----**
