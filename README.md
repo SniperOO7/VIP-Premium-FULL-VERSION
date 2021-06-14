@@ -48,6 +48,7 @@
     - 12.06.2021 - Added chat tag for VIP (player can choose tag and cfg you can set tag colors), added some changes in glow and icons
     - 13.06.2021 - Added beam for VIP, better fast reload (you can change which gun have fast reload or all guns can have it), added new commands
     - 13.06.2021 - Added HUD join/disconnect message and some little changes
+    - 14.06.2021 - New VIP menu, some little changes
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
