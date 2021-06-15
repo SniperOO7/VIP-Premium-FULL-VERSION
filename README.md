@@ -1,6 +1,6 @@
 ![ddisp](https://i.imgur.com/zh5rr3b.png)
 * **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
-* **This plugin is for CS:GO**
+* **This plugin is for CS:GO/CS:S (warning: CS:S version don't include everything as CS:GO version)**
 * **Benefits of VIP Premium plugin:**
     - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
     - After you will buy plugin, you will get instant support from me for installing it and setup it
