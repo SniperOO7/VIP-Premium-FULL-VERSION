@@ -3,6 +3,7 @@
 * **This plugin is for CS:GO/CS:S (warning: CS:S version don't include everything as CS:GO version)**
 * **Benefits of VIP Premium plugin:**
     - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
+    - More than 40+ benefits for your VIP players!
     - After you will buy plugin, you will get instant support from me for installing it and setup it
     - If you will have problem (bugs, errors..), you can always write me and I will try to help you (fix it)
     - VIP Premium is best on market, because of his: variation of configuration, price, amount of benefits in one plugin, easy setup
