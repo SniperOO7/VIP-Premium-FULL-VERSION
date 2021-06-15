@@ -116,66 +116,66 @@
 		- VIP players can change the color or disable it for them self
         - Colors: Rainbow, Green, Magenta, Red, Gold, Blue
     - Double Jump
-	- VIP can disable this feature for them self
-	- you can change amout of boost or disable it
+		- VIP can disable this feature for them self
+		- you can change amout of boost or disable it
     - Maximum HP
 		- you can change maximum HP that can VIP player have
     - Heavy Assault Suit
 		- VIP can buy heavy assauilt suit for specific price (that you can change or disable)
     - Healthshot
-	- VIP can buy healthshot for specific price (that you can change or disable)
+		- VIP can buy healthshot for specific price (that you can change or disable)
 	- Shield
-	- VIP can buy shield for specific price (that you can change or disable)
+		- VIP can buy shield for specific price (that you can change or disable)
     - VIP test
-	- players can get free VIP on 1 map
-	- after they will disconnect or map will change, they will lose their test VIP
-	- you can also disable it
+		- players can get free VIP on 1 map
+		- after they will disconnect or map will change, they will lose their test VIP
+		- you can also disable it
     - Respawn
-	- after VIP player dies, he can use respawn (you can disable it)
+		- after VIP player dies, he can use respawn (you can disable it)
         - you can change respawn protection (or you can disable it)
         - you can change bodycolors when player respawn (or you can disable it)
         - you can change for how many times can player use respawn (on map and in one round)
     - Bonus credits for buying VIP
-	- support for myjailshop and zephyrus store
+		- support for myjailshop and zephyrus store
     - Fast reload
-	- you can change which gun will have fast reload or all guns can have it
-	- (or you can disable it)
+		- you can change which gun will have fast reload or all guns can have it
+		- (or you can disable it)
     - Extra money for VIP on round start
-	- you can change amout of money (or disable it)
+		- you can change amout of money (or disable it)
     - Message when you add someon VIP or remove VIP
-	- automatic message after someone gets/lost VIP 
+		- automatic message after someone gets/lost VIP 
     - Reserved slots for VIP
-	- you can change how many slots will be reserved (or not)
+		- you can change how many slots will be reserved (or not)
     - Knife kill wallhack
-	- when VIP kill someone with knife, he will get wallhack (or disable it)
+		- when VIP kill someone with knife, he will get wallhack (or disable it)
     - Bhop
-	- automatic bhop for VIP players (or you can disable it)
+		- automatic bhop for VIP players (or you can disable it)
     - Custom tags and chat tags
-	- VIP can set their own tag in chat and scoreboard (or you can set 1 nametag for all)
-	- or you can disable it all
+		- VIP can set their own tag in chat and scoreboard (or you can set 1 nametag for all)
+		- or you can disable it all
     - Bodycolor
-	- VIP can choose their own bodycolor (or you can disable it)
+		- VIP can choose their own bodycolor (or you can disable it)
     - Translation file
-	- you can translate most of the text to your language
+		- you can translate most of the text to your language
     - Regeneration
-	- VIP player will get regeneration after someone hit him (or you can disable it)
+		- VIP player will get regeneration after someone hit him (or you can disable it)
     - Pistol upgrade after VIP kill someone (good for AWP servers)
         - 1.Kill = USP_S
         - 2.Kill = P250
         - 3.Kill = Deagle
         - After you died, pistols are reseted and you starting with GLOCK on level 0
-	- (or you can disable it)
+		- (or you can disable it)
     - VIP icon above head
-	- VIP can have icon above his head
-	- you can choose if all players can see it or only his team
-	- (or you can disable it)
+		- VIP can have icon above his head
+		- you can choose if all players can see it or only his team
+		- (or you can disable it)
     - Roll the dice
-        - Bonuses: Nothing, HP, Money, Speed
-        - you can change how many times can VIP player roll the dice
-	- you can change how much VIP players get from the bonus
-	- (or you can disable it)
+		- Bonuses: Nothing, HP, Money, Speed
+		- you can change how many times can VIP player roll the dice
+		- you can change how much VIP players get from the bonus
+		- (or you can disable it)
     - Parachutes
-	- VIP can choose parachute (protection from no falldamge)
+		- VIP can choose parachute (protection from no falldamge)
         - Parachutes: Army, Spongebob, BF2142
     - Two levels of VIP
 		- you can separate the benefits to VIP & VIP+ (or not)
