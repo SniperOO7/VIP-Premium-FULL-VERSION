@@ -77,73 +77,127 @@
 
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
 * **What full version have ?**
-    - Gun menu for VIP (its working from third round)
-    - Bonus HP for kill (you can edit how many HP VIP, that will get)
-    - Bonus HP spawn (you can edit how many HP VIP, that will get)
-    - Bonus money for kill (you can edit how many HP VIP, that will get)
-    - Bonus money for hit (you can edit how many HP VIP, that will get)
-    - Change speed for VIP (you can edit speed for VIP, that will get)
-    - Change gravity for VIP (you can edit gravity for VIP, that will get)
-    - Message when VIP join/disconnect + HUD message (you can turn it off, or choose between these 2 messages)
-    - Timer for gun menu (you can edit time)
-    - Adverts for players
-    - No-fall damage for VIP
-    - VIP settings (VIP can change their benefits, like if they want to have more HP..)
-    - Custom VIP models (for CT and TT, VIP can turn it on/off)
-    - Hit market for VIP with sound and screen effect
-    - VIP info menu (what benefits have VIP and price of VIP)
-    - Trail for VIP (VIP can change color or turn it off/on or choose color of trail)
-        - Colors: Rainbow, Green, Magneta, Red, Gold, Blue
-    - Double Jump for VIP (you can change amout of boost)
-    - Maximum HP for VIP (you can change amout of HP, what VIP can have)
-    - HeadShot bonus HP for VIP (you can change amout of HP, that VIP will get)
-    - Heavy Assault Suit (you can change price, that VIP will pay for it)
-    - Healthshot (you can change price, that VIP will pay for it)
-    - VIP test (player can try VIP for one map for free)
-    - Shield (you can change price, that VIP will pay for it)
-    - Respawn for VIP (VIP can respawn)
-        - Respawn protection (when player respawn he will get spawn protection)
-        - Bodycolors when player respawn
-        - Restriction for how many times can player use respawn (on map and in one round)
-    - Bonus credits for buying VIP (zephyrus & myjailshop support)
-    - Fast reload for VIP (you can choose which gun have it or all guns or disable it)
-    - Extra money for VIP on round start (you can change the amout of money or disabled it)
-    - Message when you add someon VIP or remove VIP (you can change message)
-    - Gun menu from specific round (you can change from which round will gun menu work)
-    - Gun menu in buyzone (you can change, that gunmenu work only in buyzone)
-    - Halftime reset gun-menu and respawn (when is halftime and teams are changed gun-menu and respawn will be reset and will work after X rounds)
-    - Reserved slots for VIP (you can change slots or disabled it)
-    - Knife kill wallhack (VIP will get wallhack for specific amout of time if VIP kill someone with knife)
-    - Bhop for VIP (you can change if you want that or not)
-    - Custom tags for VIP (VIP can choose what tag he wants)
-    - Chat tag for VIP (in cfg you can change color of tag)
-    - Bodycolor for VIP (VIP can choose bodycolors)
-    - Translation file (you can translate menus, text and more..)
-    - Regeneration after VIP get hit from enemy
+    - Gun menu
+		- you can choose what VIP can get from gun menu
+		- you can choose from what round will gun menu work
+		- you can how many times can VIP use gun menu
+		- you can choose how long VIP player can choose gun from round start
+		- you can change if the gun menu works everywhere or only in buyzone
+		- you can change, if the gunmenu will be reset in halftime
+    - Bonus HP for kill
+		- you can choose how many HP will get HP for normal kill
+		- you can choose how many HP will get for headshot kill
+    - Bonus HP spawn
+		- you can choose how much VIP player will get HP
+		- VIP player can disable it for himself, if VIP player want
+    - Bonus money for kill and hit
+		- you can change how many money will VIP player get
+    - Gravity and speed for VIP
+		- you can change gravity and speed for VIP player
+	- Join and disconnect message (HUD & Chat)
+		- when VIP player join/disconnect to the server, in chat & hud will be displayed message
+		- you can choose between chat or HUD or both
+    - Automatic advert
+		- you can change text of advert, to remind your player, that you have a VIP benefits
+    - NoFall damage
+		- you can disable it or enable it
+    - VIP settings
+		- VIP can change some benefits in the menu
+		- like change his tag, trail, beam...
+    - Custom VIP models
+		- you can add to your player VIP models 
+		- you can change them or disable it
+    - Hit market with sound effects
+		- VIP player can change their hit market, sound of the hitmarker etc..
+		- you can disable it or enable it
+    - VIP information menu
+		- you can change text of the information about your benefits of VIP
+    - Trails
+		- VIP players can change the color or disable it for them self
+        - Colors: Rainbow, Green, Magenta, Red, Gold, Blue
+    - Double Jump
+		- VIP can disable this feature for them self
+		- you can change amout of boost or disable it
+    - Maximum HP
+		- you can change maximum HP that can VIP player have
+    - Heavy Assault Suit
+		- VIP can buy heavy assauilt suit for specific price (that you can change or disable)
+    - Healthshot
+		- VIP can buy healthshot for specific price (that you can change or disable)
+	- Shield
+		- VIP can buy shield for specific price (that you can change or disable)
+    - VIP test
+		- players can get free VIP on 1 map
+		- after they will disconnect or map will change, they will lose their test VIP
+		- you can also disable it
+    - Respawn
+		- after VIP player dies, he can use respawn (you can disable it)
+        - you can change respawn protection (or you can disable it)
+        - you can change bodycolors when player respawn (or you can disable it)
+        - you can change for how many times can player use respawn (on map and in one round)
+    - Bonus credits for buying VIP
+		- support for myjailshop and zephyrus store
+    - Fast reload
+		- you can change which gun will have fast reload or all guns can have it
+		- (or you can disable it)
+    - Extra money for VIP on round start
+		- you can change amout of money (or disable it)
+    - Message when you add someon VIP or remove VIP
+		- automatic message after someone gets/lost VIP 
+    - Reserved slots for VIP
+		- you can change how many slots will be reserved (or not)
+    - Knife kill wallhack
+		- when VIP kill someone with knife, he will get wallhack (or disable it)
+    - Bhop
+		- automatic bhop for VIP players (or you can disable it)
+    - Custom tags and chat tags
+		- VIP can set their own tag in chat and scoreboard (or you can set 1 nametag for all)
+		- or you can disable it all
+    - Bodycolor
+		- VIP can choose their own bodycolor (or you can disable it)
+    - Translation file
+		- you can translate most of the text to your language
+    - Regeneration
+		- VIP player will get regeneration after someone hit him (or you can disable it)
     - Pistol upgrade after VIP kill someone (good for AWP servers)
         - 1.Kill = USP_S
         - 2.Kill = P250
         - 3.Kill = Deagle
         - After you died, pistols are reseted and you starting with GLOCK on level 0
-    - VIP icon above head (VIP can turn it on/off)
-    - Reset gun menu (command that help players to stop getting guns every round)
-    - VIP can roll the dice every round and have a change to get some bonus
+		- (or you can disable it)
+    - VIP icon above head
+		- VIP can have icon above his head
+		- you can choose if all players can see it or only his team
+		- (or you can disable it)
+    - Roll the dice
         - Bonuses: Nothing, HP, Money, Speed
-    - Parachutes for VIP (VIP can choose parachute)
+		- VIP can roll the dice every round once
+		- (or you can disable it)
+    - Parachutes
+		- VIP can choose parachute (protection from no falldamge)
         - Parachutes: Army, Spongebob, BF2142
-    - Two levels of VIP (VIP and VIP+, you can choose if you want only VIP or levels)
-    - VIP can choose, if VIP want auto open every round gun menu of not
+    - Two levels of VIP
+		- you can separate the benefits to VIP & VIP+ (or not)
     - Sound effect for menus and commands
-    - Sounds for VIP (VIP can play sound and everybody in his close can hear it)
-    - Shop for VIP (special shop for VIP with items)
+    - Sounds for VIP
+		- VIP can play special sound to everyone that are close enough to hear it
+		- (or you can disable it)
+    - Shop
+		- VIP can use special shop (to buy something)
+		- (or you can disable it)
     - VIP players can carry/buy more grenades
+	- Infinity ammo
+		- you can change which gun will have infinity ammo or all guns can have it
+		- (or you can disable it)
+	- Beam
+		- VIP player can choose color of the beam (or not to use it)
+		- in cfg file you can change width, range of beam, life of beam
+		- (or you can disable it)
     - VIP System
         - Admin can add VIP to player
         - Admin can remove VIP players
         - VIP player can see when his VIP ends /viptime
     - Full version of knife-premium (all information on github)
-    - Infinity ammo for specific type of gun
-    - Beam for VIP (in cfg file you can change width, range of beam, life of beam)
     - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
