@@ -186,6 +186,8 @@
 		- VIP can use special shop (to buy something)
 		- (or you can disable it)
     - VIP players can carry/buy more grenades
+		- you can choose how many grenades
+		- (or you can disable it)
 	- Infinity ammo
 		- you can change which gun will have infinity ammo or all guns can have it
 		- (or you can disable it)
@@ -198,7 +200,7 @@
         - Admin can remove VIP players
         - VIP player can see when his VIP ends /viptime
     - Full version of knife-premium (all information on github)
-    - OPTION FOR OWNER OF PLUGIN TO TURN ON/OFF ALL BENEFITS FOR VIP
+    - Every benefit in the plugin can be disabled!
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 * **Command (from full version):**
