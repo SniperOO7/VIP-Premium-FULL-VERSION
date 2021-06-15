@@ -126,6 +126,12 @@
 		- you can change maximum HP that can VIP player have
     - Heavy Assault Suit
 		- VIP can buy heavy assauilt suit for specific price (that you can change or disable)
+	- Spawn Bonuses
+		- VIP can have healthshot on every roundstart 
+		- VIP can have bonus grenades on every roundstart
+		- VIP can have defuse kit on every roundstart
+		- VIP can have bonus armor on every roundstart
+		- (you can all disable it)
     - Healthshot
 		- VIP can buy healthshot for specific price
 		- or you can give healthshot to VIP players on round start
