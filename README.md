@@ -51,6 +51,7 @@
     - 13.06.2021 - Added HUD join/disconnect message and some little changes
     - 14.06.2021 - New VIP menu, some little changes
     - 15.06.2021 - Added new protection from own grenades (flashbang, fire, grenade) for VIP
+    - 15.06.2021 - Added backstab protection, hegrenade radius and power for VIP players
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -200,6 +201,12 @@
 	- Nade protection
 		- VIP player is protected from damage of his own grenades
 		- VIP player is protected from flashing him self with his own flashbangs
+		- (or you can disable it) 
+	- Backstab protection
+		- VIP player have protection from backstab with knife (right and left click with knife)
+		- (or you can disable it) 
+	- Hegrenade power and radius
+		- VIP player can have longer radius and more power on hegrenade (in cfg you can change it)
 		- (or you can disable it) 
     - VIP System
         - Admin can add VIP to player
