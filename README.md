@@ -127,7 +127,9 @@
     - Heavy Assault Suit
 		- VIP can buy heavy assauilt suit for specific price (that you can change or disable)
     - Healthshot
-		- VIP can buy healthshot for specific price (that you can change or disable)
+		- VIP can buy healthshot for specific price
+		- or you can give healthshot to VIP players on round start
+		- (or disable it)
 	- Shield
 		- VIP can buy shield for specific price (that you can change or disable)
     - VIP test
