@@ -50,6 +50,7 @@
     - 13.06.2021 - Added beam for VIP, better fast reload (you can change which gun have fast reload or all guns can have it), added new commands
     - 13.06.2021 - Added HUD join/disconnect message and some little changes
     - 14.06.2021 - New VIP menu, some little changes
+    - 15.06.2021 - Added new protection from own grenades (flashbang, fire, grenade) for VIP
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -196,6 +197,10 @@
 		- VIP player can choose color of the beam (or not to use it)
 		- in cfg file you can change width, range of beam, life of beam
 		- (or you can disable it)
+	- Nade protection
+		- VIP player is protected from damage of his own grenades
+		- VIP player is protected from flashing him self with his own flashbangs
+		- (or you can disable it) 
     - VIP System
         - Admin can add VIP to player
         - Admin can remove VIP players
