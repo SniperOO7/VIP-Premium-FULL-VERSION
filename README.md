@@ -53,7 +53,7 @@
     - 14.06.2021 - New VIP menu, some little changes
     - 15.06.2021 - Added new protection from own grenades (flashbang, fire, grenade) for VIP
     - 15.06.2021 - Added backstab protection, hegrenade radius and power for VIP players
-    - 15.06.2021 - Edited menus, fixed some bugs
+    - 15.06.2021 - Edited menus, fixed some bugs, added new module for models (VIP players can choose between 12 VIP models)
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
