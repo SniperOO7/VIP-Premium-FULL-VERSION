@@ -245,6 +245,9 @@
     - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn, /viptime
 * **Command for Admins (from full version):**
     - /setvip, /removevip, /vipsystem, /henumber
+* **Command for modules (from full version):**
+    - /freevip, /vipfree, /trialvip (Playtime VIP)
+    - /model, /models, /vipmodels (More models)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
