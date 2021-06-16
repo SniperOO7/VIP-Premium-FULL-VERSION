@@ -57,7 +57,7 @@
     - 16.06.2021 - Added new module - free VIP for played time on server 
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
-![ddisp](https://i.imgur.com/DxGJNkT.png)
+![ddisp](https://i.imgur.com/JiDSgqc.png)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
