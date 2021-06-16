@@ -54,6 +54,7 @@
     - 15.06.2021 - Added new protection from own grenades (flashbang, fire, grenade) for VIP
     - 15.06.2021 - Added backstab protection, hegrenade radius and power for VIP players
     - 15.06.2021 - Edited menus, fixed some bugs, added new module for models (VIP players can choose between 12 VIP models)
+    - 16.06.2021 - Added new module - free VIP for played time on server 
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -229,6 +230,10 @@
     - VIP Premium - Module [More models]
     	- this module include 12 new models for VIP players
     	- models can be separate to VIP and VIP+ levels
+    	- (you don't have to use it if you don't want to)
+     - VIP Premium - Module [Playtime VIP]
+    	- this module allow players to get free VIP for played time on server
+    	- you can change how many seconds players have to play on server, on how many days will players get VIP etc..
     	- (you don't have to use it if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
