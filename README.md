@@ -56,6 +56,7 @@
     - 15.06.2021 - Edited menus, fixed some bugs, added new module for models (VIP players can choose between 12 VIP models)
     - 16.06.2021 - Added new module - free VIP for played time on server 
     - 23.06.2021 - Added new module - particles effects when VIP players spawn/death
+    - 24.06.2021 - New secure system for the plugin
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 ![ddisp](https://i.imgur.com/afeTM36.png)
