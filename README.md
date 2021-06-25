@@ -57,6 +57,7 @@
     - 16.06.2021 - Added new module - free VIP for played time on server 
     - 23.06.2021 - Added new module - particles effects when VIP players spawn/death
     - 24.06.2021 - New secure system for the plugin
+    - 25.06.2021 - Added new bullet sparks, bullet trails and nade trails for VIP players
 ![ddisp](https://i.imgur.com/tsUFkXQ.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 ![ddisp](https://i.imgur.com/afeTM36.png)
@@ -235,12 +236,16 @@
     	- models can be separate to VIP and VIP+ levels
     	- (you don't have to use it, if you don't want to)
      - VIP Premium - Module [Playtime VIP]
-    	- this module allow players to get free VIP for played time on server
+    	- this module allow VIP players to get free VIP for played time on server
     	- you can change how many seconds players have to play on server, on how many days will players get VIP etc..
     	- (you don't have to use it, if you don't want to)
      - VIP Premium - Module [Spawn & Death Effects]
-    	- this module allow players to have special spawn/death effects
+    	- this module allow VIP players to have special spawn/death effects
     	- you can change sound of it and who can use it
+    	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Sparks & Nade trails & Tracers]
+    	- this module allow VIP players to on/off bullet sparks, bullet trails and nade trails
+    	- you can change each of the benefits, if will be enabled/disabled
     	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
@@ -255,6 +260,7 @@
     - /freevip, /vipfree, /trialvip (Playtime VIP)
     - /model, /models, /vipmodels (More models)
     - /de, /se, /effect, /effects, /spawneffect (Spawn & Death effects)
+    - /tracer, /tracers, /spark, /nadetrail (Sparks & Nade trails & Tracers)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
