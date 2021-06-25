@@ -58,10 +58,8 @@
     - 23.06.2021 - Added new module - particles effects when VIP players spawn/death
     - 24.06.2021 - New secure system for the plugin
     - 25.06.2021 - Added new bullet sparks, bullet trails and nade trails for VIP players
-![ddisp](https://i.imgur.com/tsUFkXQ.png)
-![ddisp](https://i.imgur.com/lLC8rNG.png)
-![ddisp](https://i.imgur.com/afeTM36.png)
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
+![ddisp](https://i.imgur.com/afeTM36.png)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
