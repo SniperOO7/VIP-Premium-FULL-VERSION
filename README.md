@@ -57,7 +57,8 @@
     - 16.06.2021 - Added new module - free VIP for played time on server 
     - 23.06.2021 - Added new module - particles effects when VIP players spawn/death
     - 24.06.2021 - New secure system for the plugin
-    - 25.06.2021 - Added new bullet sparks, bullet trails and nade trails for VIP players
+    - 25.06.2021 - Added new module - bullet sparks, bullet trails and nade trails for VIP players
+    - 25.06.2021 - Added new module - restriction for guns, that can use only VIP players
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -245,6 +246,10 @@
      - VIP Premium - Module [Sparks & Nade trails & Tracers]
     	- this module allow VIP players to on/off bullet sparks, bullet trails and nade trails
     	- you can change each of the benefits, if will be enabled/disabled
+    	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Restriction]
+    	- this module allow VIP players to use/buy weapons, that normal players can't
+    	- you can change which gun is restricted
     	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
