@@ -62,6 +62,7 @@
     - 26.06.2021 - Added new module - special items from valve (like: heavyassauiltsuit, sentrygun, bumpmines..)
     - 27.06.2021 - Added new module - ball for VIP players
     - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, fast plant, buyzone anywhere, noscope crosshair, hostages more HP ..)
+    - 27.06.2021 - Added option to add something to VIP settings with config
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
