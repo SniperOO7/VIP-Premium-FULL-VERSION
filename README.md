@@ -263,7 +263,8 @@
     	- you can change amout of balls on map or how many times can VIP player use it
     	- (you don't have to use it, if you don't want to)
      - VIP Premium - Module [Gadgets]
-    	- this module allow VIP players to have some gadgets like (fast defuse, fast plant, noscope croshair, buyzone anywhere, boost ladder etc..)
+    	- this module allow VIP players to have some gadgets like: 
+    	- (fast defuse, fast plant, noscope croshair, buyzone anywhere, boost ladder, fast weapon switch, norecoil, hostage HP and speed)
     	- you can change which gadget will be active
     	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
