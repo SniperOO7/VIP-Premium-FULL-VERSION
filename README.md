@@ -60,6 +60,7 @@
     - 25.06.2021 - Added new module - bullet sparks, bullet trails and nade trails for VIP players
     - 25.06.2021 - Added new module - restriction for guns, that can use only VIP players
     - 26.06.2021 - Added new module - special items from valve (like: heavyassauiltsuit, sentrygun, bumpmines..)
+    - 27.06.2021 - Added new module - ball for VIP players
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -256,6 +257,10 @@
     	- this module allow VIP players to get special items, that valve added to danger zone
     	- also allow VIP player spawn sentry gun
     	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Ball]
+    	- this module allow VIP players to spawn their ball
+    	- you can change amout of balls on map or how many times can VIP player use it
+    	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
 
@@ -271,6 +276,7 @@
     - /de, /se, /effect, /effects, /spawneffect (Spawn & Death effects)
     - /tracer, /tracers, /spark, /nadetrail (Sparks & Nade trails & Tracers)
     - /sentrygun, /sentry, /turret (Special Items)
+    - /ball, /spawnball (Ball)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
