@@ -61,7 +61,7 @@
     - 25.06.2021 - Added new module - restriction for guns, that can use only VIP players
     - 26.06.2021 - Added new module - special items from valve (like: heavyassauiltsuit, sentrygun, bumpmines..)
     - 27.06.2021 - Added new module - ball for VIP players
-    - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, noscope crosshair, hostages more HP ..)
+    - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, fast plant, noscope crosshair, hostages more HP ..)
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -263,7 +263,7 @@
     	- you can change amout of balls on map or how many times can VIP player use it
     	- (you don't have to use it, if you don't want to)
      - VIP Premium - Module [Gadgets]
-    	- this module allow VIP players to have some gadgets like (fast defuse, noscope croshair etc..)
+    	- this module allow VIP players to have some gadgets like (fast defuse, fast plant, noscope croshair etc..)
     	- you can change which gadget will be active
     	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
