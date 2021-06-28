@@ -63,6 +63,7 @@
     - 27.06.2021 - Added new module - ball for VIP players
     - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, fast plant, buyzone anywhere, noscope crosshair, hostages more HP ..)
     - 27.06.2021 - Added option to add something to VIP settings with config
+    - 28.06.2021 - Added option to edit menus for owners of plugin (like: changing tags, adding more colors to trails, beams etc..)
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
