@@ -64,6 +64,7 @@
     - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, fast plant, buyzone anywhere, noscope crosshair, hostages more HP ..)
     - 27.06.2021 - Added option to add something to VIP settings with config
     - 28.06.2021 - Added option to edit menus for owners of plugin (like: changing tags, adding more colors to trails, beams etc..)
+    - 29.06.2021 - Fixed Playtime VIP module & Added new module - pets for VIP players
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -269,6 +270,9 @@
     	- (fast defuse, fast plant, noscope croshair, buyzone anywhere, boost ladder, fast weapon switch, norecoil, hostage HP and speed)
     	- you can change which gadget will be active
     	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Pets]
+    	- this module allow VIP players to choose his own pet or disable visible of pets for player
+    	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
 
@@ -285,6 +289,7 @@
     - /tracer, /tracers, /spark, /nadetrail (Sparks & Nade trails & Tracers)
     - /sentrygun, /sentry, /turret (Special Items)
     - /ball, /spawnball (Ball)
+    - /pet, /pets (Pet)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
