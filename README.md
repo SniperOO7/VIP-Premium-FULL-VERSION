@@ -67,6 +67,7 @@
     - 29.06.2021 - Fixed Playtime VIP module, Pets & Added new module - pets for VIP players & Added new effects to particles effects
     - 29.06.2021 - Added new animated nametags, added options to change color for each tags
     - 01.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
+    - 01.07.2021 - Added new module - custom nades model for VIP players
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -278,6 +279,9 @@
      - VIP Premium - Module [Particles]
     	- this module allow VIP players to choose his own particle
     	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Nades Models]
+    	- this module allow VIP players to choose his own nade model
+    	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
 
@@ -296,6 +300,7 @@
     - /ball, /spawnball (Ball)
     - /pet, /pets (Pet)
     - /particle, /particles (Particles)
+    - /cn, /customnade (Nades Models)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
