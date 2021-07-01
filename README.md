@@ -66,6 +66,7 @@
     - 28.06.2021 - Added option to edit menus for owners of plugin (like: changing tags, adding more colors to trails, beams etc..)
     - 29.06.2021 - Fixed Playtime VIP module, Pets & Added new module - pets for VIP players & Added new effects to particles effects
     - 29.06.2021 - Added new animated nametags, added options to change color for each tags
+    - 1.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -274,6 +275,9 @@
      - VIP Premium - Module [Pets]
     	- this module allow VIP players to choose his own pet or disable visible of pets for player
     	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Particles]
+    	- this module allow VIP players to choose his own particle
+    	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
 
@@ -291,6 +295,7 @@
     - /sentrygun, /sentry, /turret (Special Items)
     - /ball, /spawnball (Ball)
     - /pet, /pets (Pet)
+    - /particle, /particles (Particles)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
