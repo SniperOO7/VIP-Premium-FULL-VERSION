@@ -66,7 +66,7 @@
     - 28.06.2021 - Added option to edit menus for owners of plugin (like: changing tags, adding more colors to trails, beams etc..)
     - 29.06.2021 - Fixed Playtime VIP module, Pets & Added new module - pets for VIP players & Added new effects to particles effects
     - 29.06.2021 - Added new animated nametags, added options to change color for each tags
-    - 1.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
+    - 01.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
