@@ -17,6 +17,10 @@ Particles | Pets
     - Everything is configurable (plugin, translation.. etc.), you can turn off every benefit for VIP in plugin (in cfg file)
     - Free updates with new features and fixes (after you will buy it, you will get access to all new updates in future)
 
+![ddisp](https://i.imgur.com/3pFCZ4c.png)
+* **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
+* **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
+
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
     >>>>> Version 1.0 <<<<<
@@ -311,10 +315,6 @@ Particles | Pets
     - /particle, /particles (Particles)
     - /cn, /customnade (Nades Models)
     - /rb, /reloadbar (Reload Bar)
-
-![ddisp](https://i.imgur.com/3pFCZ4c.png)
-* **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
-* **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 * **----> FOR SALE ! <----**
