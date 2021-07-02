@@ -1,4 +1,5 @@
 ![ddisp](https://i.imgur.com/zh5rr3b.png)
+![ddisp](https://imgur.com/p4CTb5R)
 * **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 * **This plugin is for CS:GO/CS:S (warning: CS:S version don't include everything as CS:GO version)**
 * **Benefits of VIP Premium plugin:**
