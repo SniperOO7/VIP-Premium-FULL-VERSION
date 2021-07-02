@@ -1,3 +1,4 @@
+**Align center:**
 <p align="center" width="100%">
     <img width="33%" src="https://i.imgur.com/zh5rr3b.png"> 
 </p>
