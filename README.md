@@ -3,7 +3,7 @@
 </p>
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
-![gifvip](https://user-images.githubusercontent.com/64224908/124314902-5fce2700-db73-11eb-8fbd-ae19fcd54b3a.gif)
+![gifvip](https://user-images.githubusercontent.com/64224908/124314902-5fce2700-db73-11eb-8fbd-ae19fcd54b3a.gif) | ![gifvip2](https://user-images.githubusercontent.com/64224908/124317969-44b1e600-db78-11eb-862f-802118b82643.gif)
 * **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
 * **This plugin is for CS:GO/CS:S (warning: CS:S version don't include everything as CS:GO version)**
 * **Benefits of VIP Premium plugin:**
