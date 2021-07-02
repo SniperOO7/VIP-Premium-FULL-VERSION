@@ -68,6 +68,7 @@
     - 29.06.2021 - Added new animated nametags, added options to change color for each tags
     - 01.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
     - 01.07.2021 - Added new module - custom nades model for VIP players
+    - 02.07.2021 - Added new module - reload/plant progress bar for VIP players
 ![ddisp](https://i.imgur.com/7DkqxFF.png)
 ![ddisp](https://i.imgur.com/lLC8rNG.png)
 
@@ -282,6 +283,9 @@
      - VIP Premium - Module [Nades Models]
     	- this module allow VIP players to choose his own nade model
     	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Reload Bar]
+    	- this module allow VIP players to see reload/c4 time in progress bar
+    	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
 
@@ -301,6 +305,7 @@
     - /pet, /pets (Pet)
     - /particle, /particles (Particles)
     - /cn, /customnade (Nades Models)
+    - /rb, /reloadbar (Reload Bar)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
