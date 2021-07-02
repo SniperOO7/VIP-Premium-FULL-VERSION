@@ -80,6 +80,7 @@ Particles | Pets
     - 01.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
     - 01.07.2021 - Added new module - custom nades model for VIP players
     - 02.07.2021 - Added new module - reload/plant progress bar for VIP players
+    - 03.07.2021 - Better animated tag, added option to create own nametag
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
