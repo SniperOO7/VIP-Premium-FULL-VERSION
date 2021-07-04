@@ -117,14 +117,12 @@ Tags | Others benefits
 		- you can choose how long VIP player can choose gun from round start
 		- you can change if the gun menu works everywhere or only in buyzone
 		- you can change, if the gunmenu will be reset in halftime
-    - Bonus HP for kill
+    - Bonus HP / Money
 		- you can choose how many HP will get HP for normal kill
 		- you can choose how many HP will get for headshot kill
-    - Bonus HP spawn
 		- you can choose how much VIP player will get HP
-		- VIP player can disable it for himself, if VIP player want
-    - Bonus money for kill and hit
 		- you can change how many money will VIP player get
+		- VIP player can disable it for himself, if VIP player want
     - Gravity and speed for VIP
 		- you can change gravity and speed for VIP player
 	- Join and disconnect message (HUD & Chat)
@@ -147,7 +145,7 @@ Tags | Others benefits
 		- you can change text of the information about your benefits of VIP
     - Trails
 		- VIP players can change the color or disable it for them self
-        - Colors: Rainbow, Green, Magenta, Red, Gold, Blue
+        - Colors can be added or deleted
     - Double Jump
 		- VIP can disable this feature for them self
 		- you can change amout of boost or disable it
