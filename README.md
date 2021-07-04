@@ -85,6 +85,7 @@ Tags | Others benefits
     - 01.07.2021 - Added new module - custom nades model for VIP players
     - 02.07.2021 - Added new module - reload/plant progress bar for VIP players
     - 03.07.2021 - Better animated tag, added option to create own nametag
+    - 04.07.2021 - Added option to customize prefix of plugin, better module "moremodels" (more options to customize models - side, viptype etc.)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
