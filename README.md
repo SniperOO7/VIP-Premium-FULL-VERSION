@@ -93,7 +93,7 @@ Tags | Others benefits
 
 ![ddisp](https://i.imgur.com/qWrJh4A.png)
 
-* **What this plugin have ?**
+* **What demo version have ?**
     - Gun menu for VIP (its working from third round)
     - Bonus HP for kill (you can edit how many HP VIP, that will get)
     - Bonus HP spawn (you can edit how many HP VIP, that will get)
