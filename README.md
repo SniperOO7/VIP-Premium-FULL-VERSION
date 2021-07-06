@@ -86,6 +86,7 @@ Tags | Others benefits
     - 02.07.2021 - Added new module - reload/plant progress bar for VIP players
     - 03.07.2021 - Better animated tag, added option to create own nametag
     - 04.07.2021 - Added option to customize prefix of plugin, better module "moremodels" (more options to customize models - side, viptype etc.)
+    - 06.07.2021 - Added store module - allow to owner add prices to the items
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
@@ -298,6 +299,9 @@ Tags | Others benefits
     	- (you don't have to use it, if you don't want to)
      - VIP Premium - Module [Reload Bar]
     	- this module allow VIP players to see reload/c4 time in progress bar
+    	- (you don't have to use it, if you don't want to)
+     - VIP Premium - Module [Store]
+    	- this module allow VIP players to get coins, that can be spent for the items which have price tag
     	- (you don't have to use it, if you don't want to)
     - Full version of knife-premium (all information on github)
     - Every benefit in the plugin can be disabled!
