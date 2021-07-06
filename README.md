@@ -323,6 +323,7 @@ Tags | Others benefits
     - /particle, /particles (Particles)
     - /cn, /customnade (Nades Models)
     - /rb, /reloadbar (Reload Bar)
+    - /coin, /coins (Store)
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 * **----> FOR SALE ! <----**
