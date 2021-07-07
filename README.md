@@ -26,7 +26,7 @@ Store module | ✗ | ✓
 Code optimized | ✗ | ✓
 CS:S support | ✗ | ✓
 
-* **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
+* **IF YOU ARE INTERESTED IN FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
