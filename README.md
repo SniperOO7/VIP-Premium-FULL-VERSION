@@ -10,16 +10,23 @@ Particles | Pets
 Tags | Others benefits
 --- | ---
 ![](https://user-images.githubusercontent.com/64224908/124355157-108a0400-dc10-11eb-8361-0e22b1f52acc.gif) | ![](https://user-images.githubusercontent.com/64224908/124355441-6e6b1b80-dc11-11eb-8208-3cec2111e813.gif)
+
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+
+Features | Free version | Full version ♛
+--- | --- | ---
+Benefits | 13+ | 55+
+New updates | ✗ | ✓
+Prior support | ✗ | ✓
+Modules support | ✗ | ✓
+Database for vip | ✗ | ✓
+Pets | ✗ | ✓
+Particles | ✗ | ✓
+Store module | ✗ | ✓
+Code optimized | ✗ | ✓
+CS:S support | ✗ | ✓
+
 * **If you are interested in full version: https://steamcommunity.com/id/Sniper-oo7/**
-* **This plugin is for CS:GO/CS:S (warning: CS:S version don't include everything as CS:GO version)**
-* **Benefits of VIP Premium plugin:**
-    - Almost 2 year updates (so don't worry about lack of support or huge amount of bugs)
-    - More than 50+ benefits for your VIP players!
-    - After you will buy plugin, you will get instant support from me for installing it and setup it
-    - If you will have problem (bugs, errors..), you can always write me and I will try to help you (fix it)
-    - VIP Premium is best on market, because of his: variation of configuration, price, amount of benefits in one plugin, easy setup
-    - Everything is configurable (plugin, translation.. etc.), you can turn off every benefit for VIP in plugin (in cfg file)
-    - Free updates with new features and fixes (after you will buy it, you will get access to all new updates in future)
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
@@ -93,24 +100,8 @@ Tags | Others benefits
 * **VIP+ Flag: o** 
 * **or you can use MySQL database**
 
-![ddisp](https://i.imgur.com/qWrJh4A.png)
-
-* **What demo version have ?**
-    - Gun menu for VIP (its working from third round)
-    - Bonus HP for kill (you can edit how many HP VIP, that will get)
-    - Bonus HP spawn (you can edit how many HP VIP, that will get)
-    - Bonus money for kill (you can edit how many HP VIP, that will get)
-    - Bonus money for hit (you can edit how many HP VIP, that will get)
-    - Change speed for VIP (you can edit speed for VIP, that will get)
-    - Change gravity for VIP (you can edit gravity for VIP, that will get)
-    - Message when VIP join/disconnect
-    - Timer for gun menu (you can edit time)
-    - Adverts for players
-    - Bhop for VIP
-    - Bonus money on round start for VIP
-    - Free version of knife-premium-demo (all information on github)
-
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
+
 * **What full version have ?**
     - Gun menu
 		- you can choose what VIP can get from gun menu
