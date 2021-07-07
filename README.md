@@ -102,200 +102,58 @@ CS:S support | ✗ | ✓
 
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
 
-* **What full version have ?**
-    - Gun menu
-		- you can choose what VIP can get from gun menu
-		- you can choose from what round will gun menu work
-		- you can how many times can VIP use gun menu
-		- you can choose how long VIP player can choose gun from round start
-		- you can change if the gun menu works everywhere or only in buyzone
-		- you can change, if the gunmenu will be reset in halftime
-    - Bonus HP / Money
-		- you can choose how many HP will get HP for normal kill
-		- you can choose how many HP will get for headshot kill
-		- you can choose how much VIP player will get HP
-		- you can change how many money will VIP player get
-		- VIP player can disable it for himself, if VIP player want
-    - Gravity and speed for VIP
-		- you can change gravity and speed for VIP player
-	- Join and disconnect message (HUD & Chat)
-		- when VIP player join/disconnect to the server, in chat & hud will be displayed message
-		- you can choose between chat or HUD or both
-    - Automatic advert
-		- you can change text of advert, to remind your player, that you have a VIP benefits
-    - NoFall damage
-		- you can disable it or enable it
-    - VIP settings
-		- VIP can change some benefits in the menu
-		- like change his tag, trail, beam...
-    - Custom VIP models
-		- you can add to your player VIP models 
-		- you can change them or disable it
-    - Hit market with sound effects
-		- VIP player can change their hit market, sound of the hitmarker etc..
-		- you can disable it or enable it
-    - VIP information menu
-		- you can change text of the information about your benefits of VIP
-    - Trails
-		- VIP players can change the color or disable it for them self
-        - Colors can be added or deleted
-    - Double Jump
-		- VIP can disable this feature for them self
-		- you can change amout of boost or disable it
-    - Maximum HP
-		- you can change maximum HP that can VIP player have
-    - Heavy Assault Suit
-		- VIP can buy heavy assauilt suit for specific price (that you can change or disable)
-	- Spawn Bonuses
-		- VIP can have healthshot on every roundstart 
-		- VIP can have bonus grenades on every roundstart
-		- VIP can have defuse kit on every roundstart
-		- VIP can have bonus armor on every roundstart
-		- (you can all disable it)
-    - Healthshot
-		- VIP can buy healthshot for specific price
-		- or you can give healthshot to VIP players on round start
-		- (or disable it)
-	- Shield
-		- VIP can buy shield for specific price (that you can change or disable)
-    - VIP test
-		- players can get free VIP on 1 map
-		- after they will disconnect or map will change, they will lose their test VIP
-		- you can also disable it
-    - Respawn
-		- after VIP player dies, he can use respawn (you can disable it)
-        - you can change respawn protection (or you can disable it)
-        - you can change bodycolors when player respawn (or you can disable it)
-        - you can change for how many times can player use respawn (on map and in one round)
-    - Bonus credits for buying VIP
-		- support for myjailshop and zephyrus store
-    - Fast reload
-		- you can change which gun will have fast reload or all guns can have it
-		- (or you can disable it)
-    - Extra money for VIP on round start
-		- you can change amout of money (or disable it)
-    - Message when you add someon VIP or remove VIP
-		- automatic message after someone gets/lost VIP 
-    - Reserved slots for VIP
-		- you can change how many slots will be reserved (or not)
-    - Knife kill wallhack
-		- when VIP kill someone with knife, he will get wallhack (or disable it)
-    - Bhop
-		- automatic bhop for VIP players (or you can disable it)
-    - Custom tags and chat tags
-		- VIP can set their own tag in chat and scoreboard (or you can set 1 nametag for all)
-		- or you can disable it all
-    - Bodycolor
-		- VIP can choose their own bodycolor (or you can disable it)
-    - Translation file
-		- you can translate most of the text to your language
-    - Regeneration
-		- VIP player will get regeneration after someone hit him (or you can disable it)
-    - Pistol upgrade after VIP kill someone (good for AWP servers)
-        - 1.Kill = USP_S
-        - 2.Kill = P250
-        - 3.Kill = Deagle
-        - After you died, pistols are reseted and you starting with GLOCK on level 0
-		- (or you can disable it)
-    - VIP icon above head
-		- VIP can have icon above his head
-		- you can choose if all players can see it or only his team
-		- (or you can disable it)
-    - Roll the dice
-		- Bonuses: Nothing, HP, Money, Speed
-		- you can change how many times can VIP player roll the dice
-		- you can change how much VIP players get from the bonus
-		- (or you can disable it)
-    - Parachutes
-		- VIP can choose parachute (protection from no falldamge)
-        - Parachutes: Army, Spongebob, BF2142
-    - Two levels of VIP
-		- you can separate the benefits to VIP & VIP+ (or not)
-    - Sound effect for menus and commands
-    - Sounds for VIP
-		- VIP can play special sound to everyone that are close enough to hear it
-		- (or you can disable it)
-    - Shop
-		- VIP can use special shop (to buy something)
-		- you can change how much credits will VIP get for kill to the shop
-		- you can change how many times can VIP player use the shop
-		- in shop VIP can buy: HP, DEAGLE, GRENADES, SPEED, GRAVITY
-		- you can change the price of the each item
-		- (or you can disable it)
-    - VIP players can carry/buy more grenades
-		- you can choose how many grenades
-		- (or you can disable it)
-	- Infinity ammo
-		- you can change which gun will have infinity ammo or all guns can have it
-		- (or you can disable it)
-	- Beam
-		- VIP player can choose color of the beam (or not to use it)
-		- in cfg file you can change width, range of beam, life of beam
-		- (or you can disable it)
-	- Nade protection
-		- VIP player is protected from damage of his own grenades
-		- VIP player is protected from flashing him self with his own flashbangs
-		- (or you can disable it) 
-	- Backstab protection
-		- VIP player have protection from backstab with knife (right and left click with knife)
-		- (or you can disable it) 
-	- Hegrenade power and radius
-		- VIP player can have longer radius and more power on hegrenade (in cfg you can change it)
-		- (or you can disable it) 
-    - VIP System
-        - Admin can add VIP to player
-        - Admin can remove VIP players
-        - VIP player can see when his VIP ends /viptime
-    - VIP Premium - Module [More models]
-    	- this module include 12 new models for VIP players
-    	- models can be separate to VIP and VIP+ levels
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Playtime VIP]
-    	- this module allow VIP players to get free VIP for played time on server
-    	- you can change how many seconds players have to play on server, on how many days will players get VIP etc..
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Spawn & Death Effects]
-    	- this module allow VIP players to have special spawn/death effects
-    	- you can change sound of it and who can use it
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Sparks & Nade trails & Tracers]
-    	- this module allow VIP players to on/off bullet sparks, bullet trails and nade trails
-    	- you can change each of the benefits, if will be enabled/disabled
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Restriction]
-    	- this module allow VIP players to use/buy weapons, that normal players can't
-    	- you can change which gun is restricted
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Special Items]
-    	- this module allow VIP players to get special items, that valve added to danger zone (heavyassauilt suit, exojump boots etc..)
-    	- also allow VIP player spawn sentry gun
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Ball]
-    	- this module allow VIP players to spawn their ball
-    	- you can change amout of balls on map or how many times can VIP player use it
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Gadgets]
-    	- this module allow VIP players to have some gadgets like: 
-    	- (fast defuse, fast plant, noscope croshair, buyzone anywhere, boost ladder, fast weapon switch, norecoil, hostage HP and speed)
-    	- you can change which gadget will be active
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Pets]
-    	- this module allow VIP players to choose his own pet or disable visible of pets for player
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Particles]
-    	- this module allow VIP players to choose his own particle
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Nades Models]
-    	- this module allow VIP players to choose his own nade model
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Reload Bar]
-    	- this module allow VIP players to see reload/c4 time in progress bar
-    	- (you don't have to use it, if you don't want to)
-     - VIP Premium - Module [Store]
-    	- this module allow VIP players to get coins, that can be spent for the items which have price tag
-    	- (you don't have to use it, if you don't want to)
-    - Full version of knife-premium (all information on github)
-    - Every benefit in the plugin can be disabled!
+Feature | Description | Full description
+--- | --- | ---
+Gun menu | gun menu for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/gun-menu.md)
+Bonus HP / Money | bonus hp and money for vip players | nothing more to describe
+Gravity and speed | gravity and speed for vip players | nothing more to describe
+Join and disconnect message | join and leave message (hud & chat) | nothing more to describe
+Automatic advert | adverting message for your players | nothing more to describe
+Nofall damage | no damage from fall | nothing more to describe
+VIP settings | vip can turn on/off his benefits | nothing more to describe
+Custom VIP models | special player models for vip players | nothing more to describe
+Hitmarker | hitmarker with sound effects for vips | nothing more to describe
+VIP information menu | information menu about benefits of vip | nothing more to describe
+Trails | trails for vip players | nothing more to describe
+Double jump | double jump for vip players | nothing more to describe
+Spawn bonuses | bonuses for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/spawn-bonuses.md)
+VIP test | test vip for players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/test-vip.md)
+Respawn | allow to vip player respawn | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/respawn.md)
+Bonus credits | bonus credits buying vip (zephyrus/myjailshop) | nothing more to describe
+Fast reload | fast reload for vips | nothing more to describe
+Reserved slots | reserved slots for vips | nothing more to describe
+Knifekill wallhack | wallhack for vip after vip player kill someone | nothing more to describe
+Bhop | automatic bhop for vips | nothing more to describe
+Tags | animated/normal tags for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/tags.md)
+Bodycolor | bodycolor for vips | nothing more to describe
+Regeneration | regeneration for vips after someone hit them | nothing more to describe
+Pistol upgrade | levels of pistols | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/pistols-upgrade.md)
+VIP icon above head | icon above vip players head | nothing more to describe
+Roll the dice | dice bonuses for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/dice.md)
+Parachute | vips can use parachutes and choose between 3 types | nothing more to describe
+Two levels of VIP | you can separate the benefits to VIP & VIP+ (or not) | nothing more to describe
+Sounds | vips can play special sound to everyone that are close enough to hear it | nothing more to describe
+Shop | vips can use special shop | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/shop.md)
+More grenades | vips players can carry/buy more grenades | nothing more to describe
+Infinity ammo | owner can change which gun will have infinity ammo or all guns can have it (only for vips) | nothing more to describe
+Beam | beam for vip players | nothing more to describe
+Nade protection | protection from their own nades | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/protection-nades.md)
+Backstab protection | vips have protection from backstab with knife (right and left click with knife) | nothing more to describe
+Hegrenade power and radius | vips can have longer radius and more power on hegrenade | nothing more to describe
+VIP system | features for admins | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/system.md)
+VIP module (More models) | more models for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-moremodels.md)
+VIP module (Playtime) | playtime free vip | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-playtime.md)
+VIP module (Spawn & Death Effects) | spawn & death effects for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-effects.md)
+VIP module (Cosmetic effects) | sparks & nade trails & tracers for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-cosmeticeffects.md)
+VIP module (Restriction) | restriction for guns that can use only vips | nothing more to describe
+VIP module (Special items) | special items for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-specitems.md)
+VIP module (Ball) | allow vips to spawn their ball | nothing more to describe
+VIP module (Gadgets) | gadgets for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-gadgets.md)
+VIP module (Pets) | allow vips to use pets | nothing more to describe
+VIP module (Particles) | allow vips to use particles | nothing more to describe
+VIP module (Nades models) | allow vips to change nades models | nothing more to describe
+VIP module (Reload bar) | vips can see reloading time | nothing more to describe
+VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-store.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 * **Command (from full version):**
