@@ -1,5 +1,5 @@
 
-* **Full description of features ?**
+* **Full description of features:**
     - Gun menu
 		- you can choose what VIP can get from gun menu
 		- you can choose from what round will gun menu work
