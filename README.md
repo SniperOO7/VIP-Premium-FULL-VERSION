@@ -147,12 +147,12 @@ VIP module (Spawn & Death Effects) | spawn & death effects for vips | [click her
 VIP module (Cosmetic effects) | sparks & nade trails & tracers for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-cosmeticeffects.md)
 VIP module (Restriction) | restriction for guns that can use only vips | nothing more to describe
 VIP module (Special items) | special items for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-specitems.md)
-VIP module (Ball) | allow vips to spawn their ball | nothing more to describe
+VIP module (Ball) | allow vips to spawn their ball | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/ball.md)
 VIP module (Gadgets) | gadgets for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-gadgets.md)
-VIP module (Pets) | allow vips to use pets | nothing more to describe
-VIP module (Particles) | allow vips to use particles | nothing more to describe
-VIP module (Nades models) | allow vips to change nades models | nothing more to describe
-VIP module (Reload bar) | vips can see reloading time | nothing more to describe
+VIP module (Pets) | allow vips to use pets | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/pets.md)
+VIP module (Particles) | allow vips to use particles | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/particles.md)
+VIP module (Nades models) | allow vips to change nades models | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/nadesmodels.md)
+VIP module (Reload bar) | vips can see reloading time | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/reloadbar.md)
 VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-store.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
