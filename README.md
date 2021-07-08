@@ -112,7 +112,7 @@ Automatic advert | adverting message for your players | nothing more to describe
 Nofall damage | no damage from fall | nothing more to describe
 VIP settings | vip can turn on/off his benefits | nothing more to describe
 Custom VIP models | special player models for vip players | nothing more to describe
-Hitmarker | hitmarker with sound effects for vips | nothing more to describe
+Hitmarker | hitmarker with sound effects for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/hitmarker.md)
 VIP information menu | information menu about benefits of vip | nothing more to describe
 Trails | trails for vip players | nothing more to describe
 Double jump | double jump for vip players | nothing more to describe
@@ -125,7 +125,7 @@ Reserved slots | reserved slots for vips | nothing more to describe
 Knifekill wallhack | wallhack for vip after vip player kill someone | nothing more to describe
 Bhop | automatic bhop for vips | nothing more to describe
 Tags | animated/normal tags for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/tags.md)
-Bodycolor | bodycolor for vips | nothing more to describe
+Bodycolor | bodycolor for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/bodycolor.md)
 Regeneration | regeneration for vips after someone hit them | nothing more to describe
 Pistol upgrade | levels of pistols | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/pistols-upgrade.md)
 VIP icon above head | icon above vip players head | nothing more to describe
@@ -136,7 +136,7 @@ Sounds | vips can play special sound to everyone that are close enough to hear i
 Shop | vips can use special shop | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/shop.md)
 More grenades | vips players can carry/buy more grenades | nothing more to describe
 Infinity ammo | owner can change which gun will have infinity ammo or all guns can have it (only for vips) | nothing more to describe
-Beam | beam for vip players | nothing more to describe
+Beam | beam for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/beam.md)
 Nade protection | protection from their own nades | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/protection-nades.md)
 Backstab protection | vips have protection from backstab with knife (right and left click with knife) | nothing more to describe
 Hegrenade power and radius | vips can have longer radius and more power on hegrenade | nothing more to describe
