@@ -37,9 +37,8 @@ CS:S support | ✗ | ✓
 * **Change log:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
-* **VIP Flag: a** 
-* **VIP+ Flag: o** 
-* **or you can use MySQL database**
+
+* **Permissions and flags:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Permissions)
 
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
 
