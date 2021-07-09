@@ -1,3 +1,4 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSniperOO7%2FVIP-Premium-FULL-VERSION)
 <p align="center" width="100%">
     <img width="65%" src="https://user-images.githubusercontent.com/64224908/124354598-16321a80-dc0d-11eb-9541-82663ef53a79.gif"> 
 </p>
