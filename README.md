@@ -34,7 +34,7 @@ CS:S support | ✗ | ✓
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
-Change log: [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
+* **Change log:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
