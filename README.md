@@ -97,23 +97,7 @@ VIP module (Reload bar) | vips can see reloading time | [click here](https://git
 VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-store.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
-* **Command (from full version):**
-    - /gun, /gunmenu, /guns, /resetgun, /heavysuit, /shield, /healthshot, /vipshop, /trail, /beam, /glow
-    - /roll (dices), /sound (play sound), /vipsetting, /vip, /viptest, /tag, /respawn, /viptime
-* **Command for Admins (from full version):**
-    - /setvip, /removevip, /vipsystem, /henumber
-* **Command for modules (from full version):**
-    - /freevip, /vipfree, /trialvip (Playtime VIP)
-    - /model, /models, /vipmodels (More models)
-    - /de, /se, /effect, /effects, /spawneffect (Spawn & Death effects)
-    - /tracer, /tracers, /spark, /nadetrail (Sparks & Nade trails & Tracers)
-    - /sentrygun, /sentry, /turret (Special Items)
-    - /ball, /spawnball (Ball)
-    - /pet, /pets (Pet)
-    - /particle, /particles (Particles)
-    - /cn, /customnade (Nades Models)
-    - /rb, /reloadbar (Reload Bar)
-    - /coin, /coins (Store)
+* **List of commands:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands)
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 * **----> FOR SALE ! <----**
