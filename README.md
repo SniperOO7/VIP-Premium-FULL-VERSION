@@ -33,6 +33,7 @@ CS:S support | ✗ | ✓
 * **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
+
 [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
