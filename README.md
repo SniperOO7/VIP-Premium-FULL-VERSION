@@ -13,6 +13,7 @@ Tags | Others benefits
 
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
+## Benefits
 Features | Free version | Full version ♛
 --- | --- | ---
 Benefits | 13+ | 55+
@@ -29,19 +30,24 @@ CS:S support | ✗ | ✓
 * **IF YOU ARE INTERESTED IN FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
+
+## Videos
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
 * **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
+## Changelog
 * **Change log:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 
+## Permissions and flags
 * **Permissions and flags:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Permissions)
 
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
 
+## List of features
 Feature | Description | Full description
 --- | --- | ---
 Gun menu | gun menu for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/gun-menu.md)
