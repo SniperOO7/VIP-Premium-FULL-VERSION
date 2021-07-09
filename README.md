@@ -33,67 +33,7 @@ CS:S support | ✗ | ✓
 * **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
-
-    >>>>> Version 1.0 <<<<<
-    - 08.05.2020 - Added double jump for VIP, HS bonus HP and maxium HP (for full version)
-    - 08.05.2020 - Added heavy assault suit (for full version)
-    - 08.05.2020 - Added test vip for players (for full version)
-    - 09.05.2020 - Added 2 reserved slots for VIP (for full version)
-    - 09.05.2020 - Added special knifes from danger zone [knife-premium]
-    - 09.05.2020 - Added adverts and timer for gun menu
-    - 10.5.2020 - Added gun buyzone, translation file, rounds restriction (for full version)
-    - 10.5.2020 - Added bhop for VIP (for full version)
-    - 10.5.2020 - Added custom tags for VIP (for full version)
-    - 11.05.2020 - Added shield for VIP, added message when you give someone VIP or remove VIP with sound + some fix (for full version)
-    - 12.05.2020 - Fixed bugs, added bodycolor for VIP (for full version)
-    - 13.05.2020 - Fixed bugs, added respawn for VIP (for full version)
-    - 14.05.2020 - Halftime reset gun-menu and respawn (for full version)
-    - 15.05.2020 - Added bonus credits (zephyrus & myjailshop support) and awp fast reload (for full version)
-    - 15.05.2020 - Added VIP leves (VIP and VIP+) (for full version)
-    - 19.05.2020 - New version of demo version with new plugin and benefits
-    - 20.05.2020 - Regeneration & Pistol upgrades with one bullet (full version)
-    - 21.05.2020 - Added VIP icon above head
-    - 21.05.2020 - Added Parachutes with settings
-    - 22.05.2020 - Added better VIP menu
-    - 23.05.2020 - Added reset gun menu command
-    - 24.05.2020 - Added roll the dice for VIP  
-    - 24.05.2020 - Added auto open choose ON/OFF & pack of grenade cvar
-    - 24.05.2020 - Added sound effects for menus and commands
-    - 25.05.2020 - Added new sounds for VIP (VIP can play sound)
-    - 25.05.2020 - Added new shop for VIP (VIP can use special shop)
-    - 28.05.2020 - Added VIP-System for Admins
-    - 03.06.2020 - Added MySQL database for VIP-system (now admin can give player VIP on X days)
-    >>>>> Reedited version 2.0: <<<<<
-    - 14.02.2021 - Added new gun menu, added option to carry/buy more nades for VIP players, optimize the code, fixed bugs
-    - 25.02.2021 - Added option (convar) for custom VIP models
-    - 25.02.2021 - Re-edited whole plugin, better optimalization, added new mysql features, fixed bugs
-    - 04.04.2021 - Added infinity ammo for specific type of gun
-    - 26.05.2021 - Better menus, endrealtime in database, some little changes in code
-    - 12.06.2021 - Added chat tag for VIP (player can choose tag and cfg you can set tag colors), added some changes in glow and icons
-    - 13.06.2021 - Added beam for VIP, better fast reload (you can change which gun have fast reload or all guns can have it), added new commands
-    - 13.06.2021 - Added HUD join/disconnect message and some little changes
-    - 14.06.2021 - New VIP menu, some little changes
-    - 15.06.2021 - Added new protection from own grenades (flashbang, fire, grenade) for VIP
-    - 15.06.2021 - Added backstab protection, hegrenade radius and power for VIP players
-    - 15.06.2021 - Edited menus, fixed some bugs, added new module for models (VIP players can choose between 12 VIP models)
-    - 16.06.2021 - Added new module - free VIP for played time on server 
-    - 23.06.2021 - Added new module - particles effects when VIP players spawn/death
-    - 24.06.2021 - New secure system for the plugin
-    - 25.06.2021 - Added new module - bullet sparks, bullet trails and nade trails for VIP players
-    - 25.06.2021 - Added new module - restriction for guns, that can use only VIP players
-    - 26.06.2021 - Added new module - special items from valve (like: heavyassauiltsuit, sentrygun, bumpmines..)
-    - 27.06.2021 - Added new module - ball for VIP players
-    - 27.06.2021 - Added new module - gadgets for VIP players (like: fast defuse, fast plant, buyzone anywhere, noscope crosshair, hostages more HP ..)
-    - 27.06.2021 - Added option to add something to VIP settings with config
-    - 28.06.2021 - Added option to edit menus for owners of plugin (like: changing tags, adding more colors to trails, beams etc..)
-    - 29.06.2021 - Fixed Playtime VIP module, Pets & Added new module - pets for VIP players & Added new effects to particles effects
-    - 29.06.2021 - Added new animated nametags, added options to change color for each tags
-    - 01.07.2021 - Added new module - particles for VIP players & added to pet module visible cvar
-    - 01.07.2021 - Added new module - custom nades model for VIP players
-    - 02.07.2021 - Added new module - reload/plant progress bar for VIP players
-    - 03.07.2021 - Better animated tag, added option to create own nametag
-    - 04.07.2021 - Added option to customize prefix of plugin, better module "moremodels" (more options to customize models - side, viptype etc.)
-    - 06.07.2021 - Added store module - allow to owner add prices to the items
+[Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 * **VIP Flag: a** 
