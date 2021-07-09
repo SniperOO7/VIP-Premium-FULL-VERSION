@@ -2,7 +2,7 @@
     <img width="65%" src="https://user-images.githubusercontent.com/64224908/124354598-16321a80-dc0d-11eb-9541-82663ef53a79.gif"> 
 </p>
 
-[![WIKI](https://i.imgur.com/ksN2j8d.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki) [![COMMANDS](https://i.imgur.com/xjDpoyZ.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands) [![NEW VERSION](https://i.imgur.com/A43mWrN.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION)
+[![WIKI](https://i.imgur.com/ksN2j8d.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki) [![COMMANDS](https://i.imgur.com/xjDpoyZ.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands) [![FULL VERSION](https://i.imgur.com/YIZFatp.png)](https://steamcommunity.com/id/Sniper-oo7/)
 
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
