@@ -13,7 +13,7 @@ Tags | Others benefits
 
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
-## Benefits
+## Free vs. Full version
 Features | Free version | Full version ♛
 --- | --- | ---
 Benefits | 13+ | 55+
@@ -102,9 +102,13 @@ VIP module (Reload bar) | vips can see reloading time | [click here](https://git
 VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-store.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
+
+## Commands
 * **List of commands:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands)
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
+
+## Buy full version
 * **----> FOR SALE ! <----**
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
 * **-------------------------**
