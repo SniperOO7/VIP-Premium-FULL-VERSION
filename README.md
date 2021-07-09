@@ -102,7 +102,7 @@ VIP module (Pets) | allow vips to use pets | [click here](https://github.com/Sni
 VIP module (Particles) | allow vips to use particles | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/particles.md)
 VIP module (Nades models) | allow vips to change nades models | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/nadesmodels.md)
 VIP module (Reload bar) | vips can see reloading time | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/reloadbar.md)
-VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-store.md)
+VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/store.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
