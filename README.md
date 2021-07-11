@@ -105,6 +105,7 @@ VIP module (Nades models) | allow vips to change nades models | [click here](htt
 VIP module (Reload bar) | vips can see reloading time | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/reloadbar.md)
 VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/store.md)
 VIP module (Colored smokes) | vips can choose colored smoke | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/smokecolor.md)
+VIP module (Backpack) | vips can spawn backpack | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/backpacks.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
