@@ -78,7 +78,7 @@ Tags | animated/normal tags for vip players | [click here](https://github.com/Sn
 Bodycolor | bodycolor for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/bodycolor.md)
 Regeneration | regeneration for vips after someone hit them | nothing more to describe
 Pistol upgrade | levels of pistols | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/pistols-upgrade.md)
-VIP icon above head | icon above vip players head | nothing more to describe
+VIP icon above head | icon above vip players head | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/icons.md)
 Roll the dice | dice bonuses for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/dice.md)
 Parachute | vips can use parachutes and choose between 3 types | nothing more to describe
 Two levels of VIP | you can separate the benefits to VIP & VIP+ (or not) | nothing more to describe
