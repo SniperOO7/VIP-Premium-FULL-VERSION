@@ -106,6 +106,7 @@ VIP module (Reload bar) | vips can see reloading time | [click here](https://git
 VIP module (Store) | store cooperate with other modules | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/store.md)
 VIP module (Colored smokes) | vips can choose colored smoke | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/smokecolor.md)
 VIP module (Backpack) | vips can spawn backpack | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/backpacks.md)
+VIP module (Case opening) | players can opening case ingame! | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/caseopening.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
