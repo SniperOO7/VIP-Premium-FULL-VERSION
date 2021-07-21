@@ -109,6 +109,7 @@ VIP module (Colored smokes) | vips can choose colored smoke | [click here](https
 VIP module (Backpack) | vips can spawn backpack | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/backpacks.md)
 VIP module (Case opening) | players can opening case ingame! | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/caseopening.md)
 VIP module (Music kits) | music kits for your players | nothing more to describe
+VIP module (Ghost) | allow to vip players to become ghosts after death | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/ghost.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
