@@ -2,6 +2,7 @@
    - VIP Premium - Module [Ghost]
       - this module allow VIP players to become ghost after death
       - as a ghost players can see others ghost, walk, jump, use noclip, use autobhop, play with ball, teleport to other players
+      - ghost can also use special capes and go to the third & first person
       - (you don't have to use it, if you don't want to)
 
 Ghost example 1 | Ghost example 2
