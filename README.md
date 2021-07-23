@@ -29,7 +29,6 @@ Pets | ✗ | ✓
 Particles | ✗ | ✓
 Store module | ✗ | ✓
 Code optimized | ✗ | ✓
-CS:S support | ✗ | ✓
 
 * **IF YOU ARE INTERESTED IN FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
 
