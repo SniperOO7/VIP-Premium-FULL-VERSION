@@ -81,7 +81,6 @@ Pistol upgrade | levels of pistols | [click here](https://github.com/SniperOO7/V
 VIP icon above head | icon above vip players head | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/icons.md)
 Roll the dice | dice bonuses for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/dice.md)
 Parachute | vips can use parachutes and choose between 3 types | nothing more to describe
-Two levels of VIP | you can separate the benefits to VIP & VIP+ (or not) | nothing more to describe
 Sounds | vips can play special sound to everyone that are close enough to hear it | nothing more to describe
 Shop | vips can use special shop | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/shop.md)
 More grenades | vips players can carry/buy more grenades | nothing more to describe
