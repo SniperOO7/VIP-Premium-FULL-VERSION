@@ -93,7 +93,7 @@ VIP system | features for admins | [click here](https://github.com/SniperOO7/VIP
 VIP module (More models) | more models for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-moremodels.md)
 VIP module (Playtime) | playtime free vip | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-playtime.md)
 VIP module (Spawn & Death Effects) | spawn & death effects for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-effects.md)
-VIP module (Cosmetic effects) | sparks & nade trails & tracers for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-cosmeticeffects.md)
+VIP module (Cosmetic effects) | sparks & nade trails & tracers for vips & detonation effects | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-cosmeticeffects.md)
 VIP module (Restriction) | restriction for guns that can use only vips | nothing more to describe
 VIP module (Special items) | special items for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-specitems.md)
 VIP module (Ball) | allow vips to spawn their ball | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/ball.md)
