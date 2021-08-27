@@ -29,6 +29,7 @@ Pets | ✗ | ✓
 Particles | ✗ | ✓
 Store module | ✗ | ✓
 Code optimized | ✗ | ✓
+Configurable menus | ✗ | ✓
 Wiki tutorials | ✗ | ✓
 
 * **IF YOU ARE INTERESTED IN FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
@@ -60,6 +61,7 @@ Gravity and speed | gravity and speed for vip players | nothing more to describe
 Join and disconnect message | join and leave message (hud & chat) | nothing more to describe
 Automatic advert | adverting message for your players | nothing more to describe
 Own VIP classes | you are able to create own vip classes | nothing more to describe
+Menus creation | you are able to create own lines in menus | nothing more to describe
 Nofall damage | no damage from fall | nothing more to describe
 VIP settings | vip can turn on/off his benefits | nothing more to describe
 Custom VIP models | special player models for vip players | nothing more to describe
