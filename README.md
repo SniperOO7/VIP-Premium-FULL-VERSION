@@ -18,7 +18,7 @@ Tags | Others benefits
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
 ## Free vs. Full version
-- free version (old/demo version) can be found in sourcemod, it's not updated and old
+- free version (old/demo version) can be find in sourcemod, it's not updated and old
 - full version (new version) you can get by buying it from me
 
 Features | Free version | Full version ♛
