@@ -32,7 +32,7 @@ Code optimized | ✗ | ✓
 Configurable menus | ✗ | ✓
 Wiki tutorials | ✗ | ✓
 
-* **IF YOU ARE INTERESTED IN FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
+* **IF YOU ARE INTERESTED IN BUY FULL VERSION: https://steamcommunity.com/id/Sniper-oo7/**
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 
