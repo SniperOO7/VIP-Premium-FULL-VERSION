@@ -19,7 +19,7 @@ Tags | Others benefits
 
 ## Free vs. Full version
 - free version (old/demo version) can be find in sourcemod, it's not updated and old
-- full version (new version) you can get by buying it from me
+- [full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version) (new version) you can get by buying it from me
 
 Features | Free version | Full version ♛
 --- | --- | ---
