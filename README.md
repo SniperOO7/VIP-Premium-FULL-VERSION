@@ -38,23 +38,23 @@ Wiki tutorials | ✗ | ✓
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 
-## Videos
+## Videos ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
 * **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
-## Changelog
+## Changelog ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 * **Change log:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Changelog)
 
 ![ddisp](https://i.imgur.com/dwCZyLh.png)
 
-## Permissions and flags
+## Permissions and flags ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 * **Permissions and flags:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Permissions)
 
 ![ddisp](https://i.imgur.com/eOzVDNv.png)
 
-## List of features
+## List of features ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 Feature | Description | Full description
 --- | --- | ---
 Gun menu | gun menu for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/gun-menu.md)
@@ -117,7 +117,7 @@ VIP module (Special rounds) | allow to you create own special rounds with specia
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
-## Commands
+## Commands ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 * **List of commands:** [Click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands)
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
