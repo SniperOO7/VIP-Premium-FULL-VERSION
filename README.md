@@ -21,7 +21,7 @@ Tags | Others benefits
 - free version (old/demo version) can be find in sourcemod, it's not updated and old
 - [full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version) (new version) you can get by buying it from me [Click here](https://steamcommunity.com/id/Sniper-oo7/)
 - Warning!
-     - Many people writing me about the plugin with expectation that plugin will cost under 10 €, it's huge project with 2 years of updating and many features
+     - Many people writing me about the plugin with expectation that plugin will cost under 10 €, it's huge project with 2 years of updating and many features, such a huge projects cost more than 10 € and you need to count with it
      - Full version cost around +- 20 €, it's a normal price for such a huge plugin and you should count with it if you want to buy it!
 
 Features | Free version | Full version ♛
