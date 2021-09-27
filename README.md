@@ -68,6 +68,7 @@ Automatic advert | adverting message for your players | nothing more to describe
 Own VIP classes | you are able to create own vip classes | nothing more to describe
 Menus creation | you are able to create own lines in menus | nothing more to describe
 Nofall damage | no damage from fall | nothing more to describe
+VIP activator | players can use codes to active their VIP | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/code_activator.md)
 VIP settings | vip can turn on/off his benefits | nothing more to describe
 Custom VIP models | special player models for vip players | nothing more to describe
 Hitmarker | hitmarker with sound effects for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/hitmarker.md)
