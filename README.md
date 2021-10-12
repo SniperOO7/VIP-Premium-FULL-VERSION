@@ -130,5 +130,5 @@ VIP module (Special rounds) | allow to you create own special rounds with specia
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
 
 ## Reviews from clients, who bought full version
-* **Click here if you want to read reviews from buyers: https://vip-premium.eu/**
+* **Click here if you want to read reviews from customers: https://vip-premium.eu/**
 
