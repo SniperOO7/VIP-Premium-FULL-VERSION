@@ -5,7 +5,7 @@
 
 [![WIKI](https://i.imgur.com/ksN2j8d.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki) [![COMMANDS](https://i.imgur.com/xjDpoyZ.png)](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Commands) [![FULL VERSION](https://i.imgur.com/YIZFatp.png)](https://steamcommunity.com/id/Sniper-oo7/)
 
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
 Particles | Pets
 --- | ---
@@ -15,9 +15,10 @@ Tags | Others benefits
 --- | ---
 ![](https://user-images.githubusercontent.com/64224908/124355157-108a0400-dc10-11eb-8361-0e22b1f52acc.gif) | ![](https://user-images.githubusercontent.com/64224908/124355441-6e6b1b80-dc11-11eb-8208-3cec2111e813.gif)
 
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
 ## Free vs. Full version
+- plugin is only for CS:GO 
 - free version (old/demo version) can be find in sourcemod, it's not updated and old
 - [full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version) (new version) you can get by buying it from me [Click here](https://steamcommunity.com/id/Sniper-oo7/)
 - Warning!
