@@ -18,7 +18,7 @@ Tags | Others benefits
 ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 
 ## Free vs. Full version
-- plugin is only for CS:GO 
+- plugin is only for CS:GO/CS:S (not everything work in CS:S, you have to count with it)
 - free version (old/demo version) can be find in sourcemod, it's not updated and old
 - [full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version) (new version) you can get by buying it from me [Click here](https://steamcommunity.com/id/Sniper-oo7/)
 - Warning!
