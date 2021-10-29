@@ -29,6 +29,7 @@ Features | Free version | Full version ♛
 --- | --- | ---
 Benefits | 13+ | 55+
 New updates | ✗ | ✓
+CS:GO & CS:S support | ✗ | ✓
 Prior support | ✗ | ✓
 Modules support | ✗ | ✓
 Database for vip | ✗ | ✓
