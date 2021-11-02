@@ -120,6 +120,7 @@ VIP module (Case opening) | players can opening case ingame! | [click here](http
 VIP module (Music kits) | music kits for your players | nothing more to describe
 VIP module (Ghost) | allow to vip players to become ghosts after death | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/ghost.md)
 VIP module (Special rounds) | allow to you create own special rounds with special settings | nothing more to describe
+VIP module (Holiday events) | allow to you create own events | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/holidayevents.md)
 
 ![ddisp](https://i.imgur.com/3rOtnVl.png)
 
