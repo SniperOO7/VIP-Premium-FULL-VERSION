@@ -1,7 +1,7 @@
   * **Full description of features:**    
       - VIP Premium - Module [Holiday events]
         - this module allow to admin with flag ROOT create holiday events
-        - you can spawn on map NPC, gifts and decorations
+        - you can spawn in map NPC, gifts and decorations
         - players will be able to pick up gifts
         - (you don't have to use it, if you don't want to)
 
