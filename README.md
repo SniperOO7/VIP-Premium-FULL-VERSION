@@ -78,7 +78,6 @@ VIP information menu | information menu about benefits of vip | nothing more to 
 Trails | trails for vip players | nothing more to describe
 Double jump | double jump for vip players | nothing more to describe
 Spawn bonuses | bonuses for vip players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/spawn-bonuses.md)
-VIP test | test vip for players | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/test-vip.md)
 Respawn | allow to vip player respawn | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/respawn.md)
 Bonus credits | bonus credits buying vip (zephyrus/myjailshop) | nothing more to describe
 Fast reload | fast reload for vips | nothing more to describe
