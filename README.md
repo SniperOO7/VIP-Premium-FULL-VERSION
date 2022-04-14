@@ -45,7 +45,8 @@ Wiki tutorials | ✗ | ✓
 
 ## Videos ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
 * **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
-* **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4** 
+* **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4**
+* **Discord group: https://discord.gg/hNrJt84qPw**
 
 ![ddisp](https://i.imgur.com/Lk1Rf6X.png)
 
