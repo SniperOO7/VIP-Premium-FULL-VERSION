@@ -101,6 +101,7 @@ Nade protection | protection from their own nades | [click here](https://github.
 Backstab protection | vips have protection from backstab with knife (right and left click with knife) | nothing more to describe
 Hegrenade power and radius | vips can have longer radius and more power on hegrenade | nothing more to describe
 VIP system | features for admins | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/system.md)
+Discord log | discord message when someone get/loose vip | nothing more to describe
 VIP module (More models) | more models for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-moremodels.md)
 VIP module (Playtime) | playtime free vip | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-playtime.md)
 VIP module (Spawn & Death Effects) | spawn & death effects for vips | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/blob/master/full-description/module-effects.md)
