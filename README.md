@@ -27,7 +27,7 @@ Tags | Others benefits
 
 Features | Free version | Full version ♛
 --- | --- | ---
-Benefits | 13+ | 65+
+Benefits | 13+ | 75+
 New updates | ✗ | ✓
 CS:GO & CS:S support | ✗ | ✓
 Prior support | ✗ | ✓
