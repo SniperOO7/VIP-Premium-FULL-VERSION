@@ -39,6 +39,8 @@ Store module | ✗ | ✓
 Code optimized | ✗ | ✓
 Configurable menus | ✗ | ✓
 Wiki tutorials | ✗ | ✓
+Discord support | ✗ | ✓
+PHP script | ✗ | ✓
 
 
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
