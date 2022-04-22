@@ -24,6 +24,7 @@ Tags | Others benefits
 - Warning!
      - Many people writing me about the plugin with expectation that plugin will cost under 10 €, it's huge project with 2 years of updating and many features, such a huge projects cost more than 10 € and you need to count with it
      - Full version cost around **+- 20 €**, it's a normal price for such a huge plugin.
+     - I'm not returning money back for pursached plugins !
 
 Features | Free version | Full version ♛
 --- | --- | ---
