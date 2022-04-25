@@ -47,7 +47,7 @@ PHP script | ✗ | ✓
 ![ddisp](https://i.imgur.com/3pFCZ4c.png)
 
 ## Videos ([full version](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION/wiki/Full-version))
-* **VIDEO FROM FULL VERSION: https://youtu.be/MLRGgK_5tt0** 
+* **VIDEO FROM FULL/PAID VERSION: https://youtu.be/MLRGgK_5tt0** 
 * **VIDEO FROM MODULES: https://youtu.be/_hGYqgSTbk4**
 * **Discord group: https://discord.gg/hNrJt84qPw**
 
@@ -134,9 +134,9 @@ VIP module (Capes) | vips can use custom capes models | nothing more to describe
 
 ![ddisp](https://i.imgur.com/THOiZem.png)
 
-## Buy full version
+## Buy full/paid version
 * **If you interested in full version, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
 
-## Reviews from clients, who bought full version
+## Reviews from clients, who bought full/paid version
 * **Click here if you want to read reviews from customers: https://vip-premium.eu/**
 
