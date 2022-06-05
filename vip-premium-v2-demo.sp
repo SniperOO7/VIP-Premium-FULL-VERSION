@@ -47,7 +47,7 @@ bool g_bGunActivated = false;
 
 public Plugin myinfo = 
 {
-	name = "VIP Premium", 
+	name = "VIP Premium [Old version]", 
 	author = PLUGIN_AUTHOR, 
 	description = "VIP Premium from Sniper007", 
 	version = PLUGIN_VERSION, 
@@ -81,6 +81,7 @@ public void OnPluginStart()
 	AutoExecConfig(true, "VIP-Premium");
 	
 	CreateTimer(1.0, VIPtag, _, TIMER_REPEAT);
+	CreateTimer(300.0, Timer_Message, _, TIMER_REPEAT);
 	
 	advert = g_cVIPadverts.IntValue;
 }
@@ -408,6 +409,14 @@ void RemoveSecondaryWeapons(int client)
 			AcceptEntityInput(iWepIndex, "Kill");
 		}
 	}
+}
+
+public Action Timer_Message(Handle timer)
+{
+	PrintToChatAll(" \x04[VIP-Premium]\x01 This server using \x07old\x01 version of VIP-Premium!");
+	PrintToChatAll(" \x04[VIP-Premium]\x01 More information about new version: \x04https://discord.gg/TE2HYVs8BP");
+	PrintToServer("[VIP-Premium] This server using old version of VIP-Premium!");
+	PrintToServer("[VIP-Premium] More information about new version: https://discord.gg/TE2HYVs8BP");
 }
 
 public Action VIPtag(Handle timer)
